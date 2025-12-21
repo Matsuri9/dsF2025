@@ -1,0 +1,518 @@
+{
+  "language": "Tagalog",
+  "total_phrases": 606,
+  "sentences": [
+    {
+      "sent_id": "schachter-otanes-60-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-60-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-60-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-60-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-61-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-61-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-61-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-61-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-62-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-62-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-64-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-65-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-67-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-69-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-69-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-69-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-69-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-70-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-71-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-71-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-95-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-97-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-97-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-197-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "devos-71-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "schachter-otanes-73-0",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.8",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.12",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.13",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.14",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.16a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.16b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.24",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.25",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.55a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.55b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.63",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.64",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.84",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.89a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.89b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.89c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.90a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.90b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.90c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.92",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.98a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.98b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.98c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.98d",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.98e",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.98f",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.100",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.109",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.141",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.164a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.164b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.164c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.167a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.167b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.168",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.183a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.183b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.183c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.183d",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.185a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.185b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.185c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.186a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-1.186b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.111a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.111b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.111c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.111d",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.112a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.112b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.114a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.114b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.115a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.115b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.117a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.117b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.118a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.118b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.119a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.119b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.120a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.120b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.121a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.122a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.122b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.122c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.122d",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.123",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.124a",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.124b",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.124c",
+      "phrases": []
+    },
+    {
+      "sent_id": "shopen-3.124d",
+      "phrases": []
+    }
+  ]
+}

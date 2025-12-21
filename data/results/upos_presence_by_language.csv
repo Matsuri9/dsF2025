@@ -1,0 +1,18 @@
+UPOS,Languages_Using,Languages_Not_Using,Coverage
+ADJ,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+ADP,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",Korean,95.0%
+ADV,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+AUX,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+CCONJ,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+DET,"Arabic, Chinese, Czech, English, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",Finnish,95.0%
+INTJ,"English, Finnish, Icelandic, Indonesian, Japanese, Portuguese, Russian, Spanish, Swedish, Turkish","Arabic, Chinese, Czech, French, Galician, German, Hindi, Italian, Korean, Thai",50.0%
+NOUN,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+NUM,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+PART,"Arabic, Chinese, Czech, English, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Russian, Spanish, Swedish, Thai","Finnish, French, Galician, Portuguese, Turkish",75.0%
+PRON,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+PROPN,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+PUNCT,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+SCONJ,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",Korean,95.0%
+SYM,"Arabic, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Thai, Turkish","Chinese, Korean",90.0%
+VERB,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish",All,100.0%
+X,"Arabic, Chinese, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Thai, Turkish","Czech, Japanese, Swedish",85.0%

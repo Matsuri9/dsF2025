@@ -1,0 +1,95 @@
+DEPREL,Num_Languages,Coverage,Languages_Using
+acl,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+acl:cleft,1,5.0%,Swedish
+acl:relcl,17,85.0%,"Arabic, Chinese, Czech, English, Finnish, French, German, Hindi, Icelandic, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Swedish, Thai"
+advcl,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+advcl:relcl,2,10.0%,"Czech, English"
+advmod,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+advmod:emph,3,15.0%,"Czech, Indonesian, Turkish"
+amod,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+appos,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+aux,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+aux:caus,1,5.0%,French
+aux:pass,14,70.0%,"Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Italian, Portuguese, Russian, Spanish, Swedish, Thai"
+aux:q,1,5.0%,Turkish
+aux:tense,1,5.0%,French
+case,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+case:adv,1,5.0%,Indonesian
+case:loc,1,5.0%,Chinese
+cc,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+cc:preconj,9,45.0%,"Arabic, English, Finnish, German, Indonesian, Portuguese, Spanish, Thai, Turkish"
+ccomp,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+clf,4,20.0%,"Chinese, Indonesian, Thai, Turkish"
+compound,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+compound:a,1,5.0%,Indonesian
+compound:lvc,3,15.0%,"Hindi, Korean, Turkish"
+compound:nn,1,5.0%,Finnish
+compound:prt,8,40.0%,"Arabic, English, Finnish, German, Icelandic, Spanish, Swedish, Thai"
+compound:redup,2,10.0%,"Hindi, Turkish"
+conj,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+cop,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+cop:own,1,5.0%,Finnish
+csubj,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+csubj:cop,1,5.0%,Finnish
+csubj:pass,11,55.0%,"Arabic, Czech, English, French, German, Indonesian, Italian, Korean, Portuguese, Spanish, Swedish"
+dep,13,65.0%,"Arabic, Chinese, English, French, German, Hindi, Italian, Japanese, Korean, Portuguese, Spanish, Thai, Turkish"
+det,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+det:numgov,1,5.0%,Czech
+det:nummod,1,5.0%,Czech
+det:poss,2,10.0%,"German, Italian"
+det:predet,1,5.0%,English
+discourse,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+discourse:sp,1,5.0%,Chinese
+dislocated,11,55.0%,"Arabic, Chinese, English, Finnish, French, Icelandic, Indonesian, Portuguese, Swedish, Thai, Turkish"
+expl,9,45.0%,"Arabic, English, Galician, German, Icelandic, Italian, Russian, Spanish, Swedish"
+expl:comp,1,5.0%,French
+expl:impers,1,5.0%,Italian
+expl:pass,2,10.0%,"Czech, Spanish"
+expl:pv,4,20.0%,"Czech, German, Portuguese, Spanish"
+expl:subj,1,5.0%,French
+fixed,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+flat,17,85.0%,"Arabic, Chinese, Czech, English, Finnish, Galician, German, Hindi, Icelandic, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Swedish, Turkish"
+flat:foreign,5,25.0%,"Finnish, French, Galician, Indonesian, Russian"
+flat:name,14,70.0%,"Chinese, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Korean, Portuguese, Russian, Spanish, Swedish, Thai"
+goeswith,5,25.0%,"English, French, Indonesian, Korean, Thai"
+iobj,17,85.0%,"Arabic, Chinese, Czech, English, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Korean, Portuguese, Russian, Swedish, Thai, Turkish"
+list,1,5.0%,Hindi
+mark,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+mark:adv,1,5.0%,Chinese
+mark:prt,1,5.0%,Chinese
+mark:rel,1,5.0%,Chinese
+nmod,19,95.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+nmod:desc,1,5.0%,English
+nmod:gobj,1,5.0%,Finnish
+nmod:gsubj,1,5.0%,Finnish
+nmod:lmod,1,5.0%,Indonesian
+nmod:poss,10,50.0%,"English, Finnish, German, Hindi, Icelandic, Indonesian, Korean, Swedish, Thai, Turkish"
+nmod:tmod,1,5.0%,Indonesian
+nmod:unmarked,1,5.0%,English
+nsubj,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+nsubj:caus,1,5.0%,French
+nsubj:cop,1,5.0%,Finnish
+nsubj:outer,2,10.0%,"Japanese, Swedish"
+nsubj:pass,16,80.0%,"Arabic, Chinese, Czech, English, French, Galician, German, Hindi, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Swedish, Thai"
+nummod,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+nummod:entity,1,5.0%,Russian
+nummod:gov,2,10.0%,"Czech, Russian"
+obj,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+obj:agent,1,5.0%,French
+obl,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+obl:agent,9,45.0%,"Chinese, Czech, French, German, Hindi, Indonesian, Russian, Spanish, Swedish"
+obl:arg,4,20.0%,"Czech, German, Icelandic, Spanish"
+obl:mod,1,5.0%,French
+obl:patient,1,5.0%,Chinese
+obl:poss,1,5.0%,Thai
+obl:tmod,10,50.0%,"Arabic, Chinese, German, Hindi, Indonesian, Italian, Korean, Portuguese, Spanish, Thai"
+obl:unmarked,1,5.0%,English
+orphan,15,75.0%,"Arabic, Czech, English, Finnish, French, Galician, German, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Swedish, Turkish"
+parataxis,18,90.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+parataxis:discourse,1,5.0%,Russian
+punct,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+reparandum,2,10.0%,"English, Thai"
+root,20,100.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+vocative,17,85.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Icelandic, Indonesian, Italian, Korean, Portuguese, Russian, Spanish, Swedish, Thai"
+xcomp,18,90.0%,"Arabic, Chinese, Czech, English, Finnish, French, Galician, German, Hindi, Icelandic, Indonesian, Italian, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+xcomp:ds,1,5.0%,Finnish

@@ -1,0 +1,926 @@
+{
+  "language": "Sanskrit",
+  "total_phrases": 1613,
+  "sentences": [
+    {
+      "sent_id": "panc0.s1",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s2",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s2b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s2c",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s2d",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s2e",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s2f",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s3",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s4",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s5",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s6",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s7",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s8",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s9",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s10",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s11",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s12",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s12b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s13",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s14a",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s14b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s15",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s15b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s15c",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s16",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s17",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s17b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s18",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s19",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s20",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s21",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s22",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s23",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s24",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s25",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s26",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s27",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s28",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s29",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s30",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s31",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s32",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s33",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s34",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s35",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s36",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s37",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s38",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s38a",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s39",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s40",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s41",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s42",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s43",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s44",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s45",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s46",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s47",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s47b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc0.s48",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s1",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s2",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s3",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s4",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s5",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s5b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s6",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s7",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s8",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s9",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s10",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s11",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s12",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s13",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s14",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s15",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s16",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s17",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s18",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s19",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s34",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s35",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s41",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s42",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s43",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s58",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s59",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s61",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s63",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s64",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s65",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s66",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s73",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s75",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s83",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s84",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s99",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s100",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s101",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s103",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s113",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s114",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s117",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s120",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s121",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s122",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s124",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s125",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s127",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s128",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s131",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s132",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s142",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s149",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s150",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s162",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s163a",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s163b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s163c",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s164",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s191",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s192",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s193",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s194",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s196",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s197",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s198",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s199",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s207",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s208",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s209",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s210",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s211",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s226",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s227",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s228",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s229",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc1.s230",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s101",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s102",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s103",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s104",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s105",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s106",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s107",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s108",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s109",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s117",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s118",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s119",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s120",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s121",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s122",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s123",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s124",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s125",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s126",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s127",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s128",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s129",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s130",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s131",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s132",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s133",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s134",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s135",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s136",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s137",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s138",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s139",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s140",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s141",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s142",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s143",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s144",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s145",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s146",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s147",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s148",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s149",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s150",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s151",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s152",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s153",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s154",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s155",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s156",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s157a",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s157b",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s158",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s159",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s160",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s161",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s162",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s163",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s164",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s165",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s166",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s167",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s168",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s169",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s170",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s171",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s173",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s174",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s175",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s176",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s177",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s178",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s179",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s182",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc5.s183",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s185",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s186",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s187",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s188",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s189",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s190",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s191",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s192",
+      "phrases": []
+    },
+    {
+      "sent_id": "panc6.s193",
+      "phrases": []
+    },
+    {
+      "sent_id": "s57",
+      "phrases": []
+    },
+    {
+      "sent_id": "s58",
+      "phrases": []
+    },
+    {
+      "sent_id": "s59",
+      "phrases": []
+    },
+    {
+      "sent_id": "s60",
+      "phrases": []
+    },
+    {
+      "sent_id": "s61",
+      "phrases": []
+    },
+    {
+      "sent_id": "s62",
+      "phrases": []
+    },
+    {
+      "sent_id": "s63",
+      "phrases": []
+    },
+    {
+      "sent_id": "s78",
+      "phrases": []
+    },
+    {
+      "sent_id": "s82",
+      "phrases": []
+    }
+  ]
+}

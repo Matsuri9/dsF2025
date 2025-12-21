@@ -1,0 +1,4006 @@
+{
+  "language": "Hebrew",
+  "total_phrases": 26209,
+  "sentences": [
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_glasgow-coma-scale-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_amphetamine-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-58",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-59",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-60",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-61",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-62",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-63",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-64",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-65",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-66",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_sal-habriut-67",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-58",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-59",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-60",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-61",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-62",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-63",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-64",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-65",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-66",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-67",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-68",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-69",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-70",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-71",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-72",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-73",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-74",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-75",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-76",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-77",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-78",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-79",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-80",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-81",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-82",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-83",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mammography-84",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-58",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-59",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-60",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-61",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-62",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-63",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-64",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-65",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-66",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-67",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-68",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-69",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-70",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-71",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-72",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-73",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-74",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-75",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-76",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-77",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-78",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-79",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-80",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-81",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-82",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-83",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-84",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-85",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-86",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-87",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-88",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-89",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-90",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-91",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-92",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-93",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-94",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-95",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-96",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-97",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-98",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-99",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-100",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-101",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-102",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-103",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-104",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-105",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-106",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-107",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-108",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-109",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-110",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-111",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-112",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-113",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-114",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-115",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-116",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-117",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-118",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-119",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-120",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-121",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-122",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-123",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-124",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-125",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-126",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-127",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-128",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_penicillin-129",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-58",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-59",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-60",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-61",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-62",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-63",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-64",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-65",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-66",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-67",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-68",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-69",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-70",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-71",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-72",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-73",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-74",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-75",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-76",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-77",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-78",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-79",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-80",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-81",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-82",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-83",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-84",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-85",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-86",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-87",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-88",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-89",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-90",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-91",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-92",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-93",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-94",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-95",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-96",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-97",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-98",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-99",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-100",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-101",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-102",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-103",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-104",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-105",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-106",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-107",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-108",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-109",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-110",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-111",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-112",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-113",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-114",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-115",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-116",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-117",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-118",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-119",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-120",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-121",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-122",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-123",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-124",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-125",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-126",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-127",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-128",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-129",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-130",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-131",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-132",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-133",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-134",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-135",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-136",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-137",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-138",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-139",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-140",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-141",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-142",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-143",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-144",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-145",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-146",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-147",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-148",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-149",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-150",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-151",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-152",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-153",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-154",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-155",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-156",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-157",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-158",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-159",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-160",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-161",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-162",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-163",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-164",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-165",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-166",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-167",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-168",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-169",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-170",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-171",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-172",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-173",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-174",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-175",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-176",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-177",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-178",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-179",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-180",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-181",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-182",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-183",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-184",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-185",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-186",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-187",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-188",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-189",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-190",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-191",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-192",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-193",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-194",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-195",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-196",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-197",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-198",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-199",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-200",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-201",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-202",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-203",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-204",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-205",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-206",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-207",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-208",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-209",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-210",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-211",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-212",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-213",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-214",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-215",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-216",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-217",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-218",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-219",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-220",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-221",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-222",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-223",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-224",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-225",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-226",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-227",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-228",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-229",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-230",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-231",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-232",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-233",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-234",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-235",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-236",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-237",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-238",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-239",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-240",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-241",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-242",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-243",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-244",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-245",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-246",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-247",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-248",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-249",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-250",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-251",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-252",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-253",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-254",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-255",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-256",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-257",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-258",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-259",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-260",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-261",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-262",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-263",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-264",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-265",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-266",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-267",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-268",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-269",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-270",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-271",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-272",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-273",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-274",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-275",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-276",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-277",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-278",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-279",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-280",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-281",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-282",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-283",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-284",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-285",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-286",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-287",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-288",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-289",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-290",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-291",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-292",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-293",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-294",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-295",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-296",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-297",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-298",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-299",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-300",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-301",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-302",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-303",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-304",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-305",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-306",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-307",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-308",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-309",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-310",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-311",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-312",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-313",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-314",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-315",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-316",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-317",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-318",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_diabetes-319",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-58",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-59",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-60",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-61",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-62",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-63",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-64",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-65",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-66",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-67",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-68",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-69",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-70",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-71",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-72",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-73",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-74",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-75",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-76",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-77",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-78",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-79",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-80",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-81",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-82",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-83",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-84",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-85",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-86",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-87",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-88",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-89",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-90",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-91",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-92",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-93",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-94",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-95",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-96",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-97",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-98",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-99",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-100",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-101",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-102",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-103",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-104",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-105",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-106",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-107",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-108",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-109",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-110",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-111",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-112",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-113",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-114",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-115",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-116",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-117",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-118",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-119",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-120",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-121",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-122",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-123",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-124",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-125",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-126",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-127",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-128",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-129",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_mearat-hamachpela-130",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-1",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-2",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-3",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-4",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-5",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-6",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-7",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-8",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-9",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-10",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-11",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-12",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-13",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-14",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-15",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-16",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-17",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-18",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-19",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-20",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-21",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-22",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-23",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-24",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-25",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-26",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-27",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-28",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-29",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-30",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-31",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-32",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-33",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-34",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-35",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-36",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-37",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-38",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-39",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-40",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-41",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-42",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-43",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-44",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-45",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-46",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-47",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-48",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-49",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-50",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-51",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-52",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-53",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-54",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-55",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-56",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-57",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-58",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-59",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-60",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-61",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-62",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-63",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-64",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-65",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-66",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-67",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-68",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-69",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-70",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-71",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-72",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-73",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-74",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-75",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-76",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-77",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-78",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-79",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-80",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-81",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-82",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-83",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-84",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-85",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-86",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-87",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-88",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-89",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-90",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-91",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-92",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-93",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-94",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-95",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-96",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-97",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-98",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-99",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-100",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-101",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-102",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-103",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-104",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-105",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-106",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-107",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-108",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-109",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-110",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-111",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-112",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-113",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-114",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-115",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-116",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-117",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-118",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-119",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-120",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-121",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-122",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-123",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-124",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-125",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-126",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-127",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-128",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-129",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-130",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-131",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-132",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-133",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-134",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-135",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-136",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-137",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-138",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-139",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-140",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-141",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-142",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-143",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-144",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-145",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-146",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-147",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-148",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-149",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-150",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-151",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-152",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-153",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-154",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-155",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-156",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-157",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-158",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-159",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-160",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-161",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-162",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-163",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-164",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-165",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-166",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-167",
+      "phrases": []
+    },
+    {
+      "sent_id": "iahltwiki_judea-samaria-168",
+      "phrases": []
+    }
+  ]
+}

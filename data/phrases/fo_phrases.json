@@ -1,0 +1,4006 @@
+{
+  "language": "Faroese",
+  "total_phrases": 7227,
+  "sentences": [
+    {
+      "sent_id": "wikipedia.vislcg.txt:1:0",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:2:25",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:3:35",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:4:53",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:5:85",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:6:105",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:7:137",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:8:157",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:9:169",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:10:201",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:11:221",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:12:255",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:13:273",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:14:297",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:15:323",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:16:345",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:17:367",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:18:383",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:19:417",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:20:433",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:21:457",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:22:479",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:23:509",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:24:525",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:25:551",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:26:573",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:27:591",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:28:619",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:29:641",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:30:669",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:31:685",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:32:705",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:33:723",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:34:741",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:35:759",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:36:777",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:37:799",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:38:811",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:39:845",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:40:869",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:41:893",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:42:909",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:43:925",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:44:945",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:45:967",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:46:991",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:47:1007",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:48:1029",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:49:1045",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:50:1061",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:51:1095",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:52:1107",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:53:1123",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:54:1145",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:55:1161",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:56:1177",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:57:1191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:58:1207",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:59:1229",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:60:1241",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:61:1261",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:62:1281",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:63:1303",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:64:1321",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:65:1349",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:66:1375",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:67:1395",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:68:1411",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:69:1423",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:70:1437",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:71:1457",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:72:1487",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:73:1505",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:74:1529",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:75:1545",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:76:1563",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:77:1585",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:78:1623",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:79:1637",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:80:1659",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:81:1683",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:82:1701",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:83:1715",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:84:1735",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:85:1761",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:86:1779",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:87:1797",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:88:1817",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:89:1837",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:90:1869",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:91:1895",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:92:1903",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:93:1923",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:94:1937",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:95:1963",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:96:1987",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:97:2001",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:98:2015",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:99:2033",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:100:2051",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:101:2065",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:102:2093",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:103:2105",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:104:2119",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:105:2131",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:106:2145",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:107:2161",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:108:2185",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:109:2209",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:110:2227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:111:2263",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:112:2281",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:113:2303",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:114:2339",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:115:2365",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:116:2383",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:117:2407",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:118:2425",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:119:2447",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:120:2463",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:121:2481",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:122:2501",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:123:2521",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:124:2545",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:125:2563",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:126:2579",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:127:2599",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:128:2613",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:129:2627",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:130:2641",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:131:2661",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:132:2673",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:133:2693",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:134:2717",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:135:2735",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:136:2749",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:137:2773",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:138:2787",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:139:2807",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:140:2841",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:141:2857",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:142:2881",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:143:2901",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:144:2911",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:145:2935",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:146:2959",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:147:2977",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:148:2993",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:149:3009",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:150:3029",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:151:3053",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:152:3069",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:153:3083",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:154:3103",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:155:3127",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:156:3147",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:157:3163",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:158:3183",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:159:3199",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:160:3217",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:161:3235",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:162:3251",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:163:3271",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:164:3297",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:165:3313",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:166:3335",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:167:3359",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:168:3379",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:169:3403",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:170:3419",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:171:3433",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:172:3449",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:173:3469",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:174:3487",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:175:3513",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:176:3537",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:177:3565",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:178:3581",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:179:3593",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:180:3609",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:181:3621",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:182:3645",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:183:3663",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:184:3681",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:185:3697",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:186:3717",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:187:3729",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:188:3745",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:189:3763",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:190:3781",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:191:3801",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:192:3827",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:193:3847",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:194:3865",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:195:3875",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:196:3891",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:197:3907",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:198:3923",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:199:3949",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:200:3959",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:201:3995",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:202:4005",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:203:4031",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:204:4047",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:205:4063",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:206:4079",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:207:4099",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:208:4109",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:209:4133",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:210:4151",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:211:4167",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:212:4185",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:213:4209",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:214:4227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:215:4257",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:216:4277",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:217:4295",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:218:4321",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:219:4345",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:220:4367",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:221:4387",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:222:4403",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:223:4421",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:224:4457",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:225:4471",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:226:4497",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:227:4517",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:228:4527",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:229:4549",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:230:4567",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:231:4581",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:232:4603",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:233:4619",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:234:4643",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:235:4693",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:236:4733",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:237:4749",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:238:4765",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:239:4781",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:240:4803",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:241:4827",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:242:4841",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:243:4861",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:244:4895",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:245:4907",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:246:4931",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:247:4947",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:248:4977",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:249:5001",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:250:5021",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:251:5045",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:252:5055",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:253:5069",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:254:5091",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:255:5103",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:256:5125",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:257:5141",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:258:5169",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:259:5191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:260:5213",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:261:5245",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:262:5263",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:263:5281",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:264:5299",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:265:5319",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:266:5333",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:267:5347",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:268:5369",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:269:5387",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:270:5405",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:271:5423",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:272:5441",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:273:5473",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:274:5491",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:275:5509",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:276:5527",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:277:5545",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:278:5559",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:279:5577",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:280:5593",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:281:5625",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:282:5643",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:283:5659",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:284:5673",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:285:5697",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:286:5713",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:287:5745",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:288:5763",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:289:5779",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:290:5807",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:291:5819",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:292:5835",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:293:5853",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:294:5871",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:295:5885",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:296:5909",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:297:5933",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:298:5945",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:299:5967",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:300:5989",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:301:6007",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:302:6023",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:303:6039",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:304:6051",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:305:6065",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:306:6081",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:307:6099",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:308:6121",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:309:6137",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:310:6161",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:311:6183",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:312:6209",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:313:6225",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:314:6243",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:315:6261",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:316:6279",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:317:6305",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:318:6331",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:319:6345",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:320:6365",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:321:6381",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:322:6399",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:323:6421",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:324:6441",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:325:6469",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:326:6505",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:327:6521",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:328:6539",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:329:6571",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:330:6601",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:331:6619",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:332:6635",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:333:6647",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:334:6673",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:335:6687",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:336:6705",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:337:6717",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:338:6737",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:339:6757",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:340:6781",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:341:6811",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:342:6829",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:343:6853",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:344:6887",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:345:6911",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:346:6925",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:347:6947",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:348:6963",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:349:6977",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:350:6991",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:351:7031",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:352:7053",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:353:7073",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:354:7097",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:355:7113",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:356:7129",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:357:7155",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:358:7173",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:359:7191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:360:7219",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:361:7239",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:362:7253",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:363:7267",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:364:7295",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:365:7313",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:366:7339",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:367:7357",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:368:7367",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:369:7387",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:370:7407",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:371:7421",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:372:7443",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:373:7457",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:374:7475",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:375:7497",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:376:7513",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:377:7537",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:378:7551",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:379:7601",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:380:7623",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:381:7671",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:382:7689",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:383:7709",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:384:7733",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:385:7771",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:386:7789",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:387:7805",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:388:7821",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:389:7837",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:390:7861",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:391:7881",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:392:7895",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:393:7919",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:394:7935",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:395:7955",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:396:7985",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:397:8005",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:398:8021",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:399:8049",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:400:8073",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:401:8113",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:402:8127",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:403:8143",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:404:8163",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:405:8177",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:406:8203",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:407:8231",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:408:8245",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:409:8269",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:410:8289",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:411:8323",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:412:8337",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:413:8351",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:414:8379",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:415:8401",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:416:8419",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:417:8435",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:418:8461",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:419:8477",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:420:8499",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:421:8515",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:422:8533",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:423:8563",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:424:8599",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:425:8611",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:426:8623",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:427:8643",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:428:8665",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:429:8677",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:430:8697",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:431:8715",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:432:8725",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:433:8741",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:434:8767",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:435:8793",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:436:8811",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:437:8825",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:438:8839",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:439:8853",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:440:8869",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:441:8883",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:442:8901",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:443:8917",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:444:8937",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:445:8945",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:446:8955",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:447:8975",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:448:9005",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:449:9021",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:450:9055",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:451:9075",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:452:9087",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:453:9105",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:454:9127",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:455:9161",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:456:9179",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:457:9199",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:458:9229",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:459:9251",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:460:9267",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:461:9293",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:462:9309",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:463:9365",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:464:9393",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:465:9405",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:466:9421",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:467:9445",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:468:9463",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:469:9481",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:470:9503",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:471:9527",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:472:9549",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:473:9567",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:474:9583",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:475:9611",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:476:9623",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:477:9643",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:478:9665",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:479:9683",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:480:9717",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:481:9745",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:482:9765",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:483:9783",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:484:9799",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:485:9839",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:486:9853",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:487:9873",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:488:9899",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:489:9919",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:490:9931",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:491:9953",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:492:9973",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:493:9987",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:494:10001",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:495:10027",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:496:10049",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:497:10067",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:498:10077",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:499:10107",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:500:10117",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:501:10141",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:502:10173",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:503:10191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:504:10209",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:505:10227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:506:10247",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:507:10281",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:508:10299",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:509:10319",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:510:10329",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:511:10343",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:512:10365",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:513:10395",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:514:10413",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:515:10437",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:516:10451",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:517:10467",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:518:10483",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:519:10497",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:520:10515",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:521:10549",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:522:10569",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:523:10593",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:524:10605",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:525:10623",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:526:10653",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:527:10671",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:528:10697",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:529:10721",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:530:10739",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:531:10765",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:532:10787",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:533:10809",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:534:10825",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:535:10845",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:536:10869",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:537:10901",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:538:10917",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:539:10939",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:540:10957",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:541:10977",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:542:10999",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:543:11013",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:544:11025",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:545:11047",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:546:11069",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:547:11085",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:548:11107",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:549:11127",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:550:11145",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:551:11163",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:552:11195",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:553:11213",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:554:11227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:555:11247",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:556:11269",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:557:11307",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:558:11327",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:559:11345",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:560:11365",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:561:11387",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:562:11407",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:563:11429",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:564:11445",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:565:11473",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:566:11491",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:567:11513",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:568:11527",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:569:11547",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:570:11567",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:571:11575",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:572:11589",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:573:11607",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:574:11625",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:575:11641",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:576:11663",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:577:11681",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:578:11695",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:579:11713",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:580:11733",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:581:11751",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:582:11781",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:583:11797",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:584:11817",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:585:11829",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:586:11851",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:587:11875",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:588:11895",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:589:11915",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:590:11937",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:591:11971",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:592:11995",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:593:12017",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:594:12047",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:595:12061",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:596:12095",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:597:12113",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:598:12129",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:599:12151",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:600:12161",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:601:12179",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:602:12191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:603:12211",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:604:12225",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:605:12239",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:606:12259",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:607:12287",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:608:12317",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:609:12335",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:610:12353",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:611:12373",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:612:12389",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:613:12419",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:614:12437",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:615:12453",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:616:12465",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:617:12495",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:618:12511",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:619:12535",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:620:12553",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:621:12579",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:622:12597",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:623:12619",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:624:12641",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:625:12669",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:626:12689",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:627:12717",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:628:12739",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:629:12759",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:630:12787",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:631:12815",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:632:12841",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:633:12861",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:634:12887",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:635:12909",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:636:12931",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:637:12957",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:638:12979",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:639:12997",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:640:13017",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:641:13057",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:642:13073",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:643:13099",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:644:13117",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:645:13133",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:646:13155",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:647:13175",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:648:13191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:649:13205",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:650:13227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:651:13247",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:652:13267",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:653:13285",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:654:13299",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:655:13319",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:656:13345",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:657:13367",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:658:13389",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:659:13411",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:660:13443",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:661:13457",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:662:13469",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:663:13487",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:664:13509",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:665:13531",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:666:13559",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:667:13587",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:668:13605",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:669:13625",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:670:13645",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:671:13667",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:672:13703",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:673:13719",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:674:13747",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:675:13767",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:676:13795",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:677:13823",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:678:13841",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:679:13861",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:680:13879",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:681:13891",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:682:13907",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:683:13923",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:684:13945",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:685:13965",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:686:13991",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:687:14009",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:688:14043",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:689:14057",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:690:14085",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:691:14119",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:692:14133",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:693:14151",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:694:14167",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:695:14191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:696:14203",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:697:14219",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:698:14235",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:699:14251",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:700:14265",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:701:14285",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:702:14299",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:703:14315",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:704:14339",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:705:14355",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:706:14385",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:707:14411",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:708:14427",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:709:14441",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:710:14475",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:711:14485",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:712:14501",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:713:14527",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:714:14539",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:715:14557",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:716:14573",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:717:14595",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:718:14609",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:719:14639",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:720:14651",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:721:14669",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:722:14693",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:723:14719",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:724:14737",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:725:14751",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:726:14769",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:727:14803",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:728:14819",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:729:14835",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:730:14853",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:731:14875",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:732:14895",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:733:14911",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:734:14931",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:735:14945",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:736:14965",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:737:14991",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:738:15007",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:739:15031",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:740:15045",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:741:15071",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:742:15083",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:743:15101",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:744:15113",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:745:15125",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:746:15137",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:747:15153",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:748:15171",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:749:15201",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:750:15217",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:751:15251",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:752:15271",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:753:15283",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:754:15305",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:755:15323",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:756:15335",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:757:15351",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:758:15367",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:759:15389",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:760:15399",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:761:15417",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:762:15435",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:763:15453",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:764:15469",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:765:15497",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:766:15509",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:767:15521",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:768:15537",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:769:15569",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:770:15587",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:771:15625",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:772:15645",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:773:15665",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:774:15679",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:775:15695",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:776:15713",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:777:15733",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:778:15757",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:779:15771",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:780:15785",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:781:15813",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:782:15839",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:783:15869",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:784:15889",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:785:15919",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:786:15943",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:787:15969",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:788:15985",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:789:16005",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:790:16047",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:791:16073",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:792:16085",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:793:16103",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:794:16119",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:795:16153",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:796:16175",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:797:16197",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:798:16209",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:799:16227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:800:16249",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:801:16265",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:802:16287",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:803:16299",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:804:16311",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:805:16331",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:806:16347",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:807:16385",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:808:16427",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:809:16439",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:810:16465",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:811:16485",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:812:16511",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:813:16543",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:814:16561",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:815:16577",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:816:16601",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:817:16619",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:818:16635",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:819:16661",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:820:16677",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:821:16701",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:822:16723",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:823:16743",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:824:16765",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:825:16807",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:826:16821",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:827:16837",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:828:16859",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:829:16873",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:830:16889",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:831:16909",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:832:16925",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:833:16947",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:834:16975",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:835:17003",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:836:17033",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:837:17053",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:838:17069",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:839:17093",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:840:17117",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:841:17145",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:842:17169",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:843:17191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:844:17211",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:845:17227",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:846:17249",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:847:17275",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:848:17295",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:849:17317",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:850:17361",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:851:17385",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:852:17397",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:853:17413",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:854:17441",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:855:17459",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:856:17479",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:857:17501",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:858:17533",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:859:17551",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:860:17565",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:861:17589",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:862:17605",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:863:17621",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:864:17657",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:865:17679",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:866:17695",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:867:17715",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:868:17747",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:869:17763",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:870:17791",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:871:17813",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:872:17837",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:873:17851",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:874:17865",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:875:17883",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:876:17907",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:877:17923",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:878:17939",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:879:17963",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:880:17987",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:881:18003",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:882:18019",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:883:18031",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:884:18061",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:885:18083",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:886:18095",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:887:18113",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:888:18143",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:889:18165",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:890:18191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:891:18211",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:892:18233",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:893:18253",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:894:18273",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:895:18291",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:896:18317",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:897:18331",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:898:18347",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:899:18369",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:900:18391",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:901:18399",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:902:18423",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:903:18439",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:904:18463",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:905:18495",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:906:18511",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:907:18529",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:908:18547",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:909:18565",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:910:18589",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:911:18611",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:912:18631",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:913:18651",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:914:18679",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:915:18705",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:916:18721",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:917:18745",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:918:18789",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:919:18803",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:920:18817",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:921:18837",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:922:18859",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:923:18875",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:924:18889",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:925:18913",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:926:18931",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:927:18953",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:928:18977",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:929:19005",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:930:19017",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:931:19047",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:932:19067",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:933:19089",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:934:19103",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:935:19111",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:936:19125",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:937:19143",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:938:19167",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:939:19191",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:940:19223",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:941:19235",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:942:19261",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:943:19283",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:944:19299",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:945:19323",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:946:19335",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:947:19351",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:948:19365",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:949:19379",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:950:19403",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:951:19439",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:952:19457",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:953:19475",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:954:19489",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:955:19511",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:956:19537",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:957:19555",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:958:19577",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:959:19603",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:960:19619",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:961:19637",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:962:19657",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:963:19673",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:964:19691",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:965:19709",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:966:19731",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:967:19745",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:968:19765",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:969:19781",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:970:19793",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:971:19821",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:972:19835",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:973:19865",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:974:19891",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:975:19913",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:976:19941",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:977:19955",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:978:19971",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:979:19987",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:980:20009",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:981:20037",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:982:20053",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:983:20071",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:984:20099",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:985:20117",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:986:20139",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:987:20159",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:988:20181",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:989:20203",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:990:20231",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:991:20249",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:992:20291",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:993:20305",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:994:20323",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:995:20339",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:996:20355",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:997:20375",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:998:20393",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:999:20419",
+      "phrases": []
+    },
+    {
+      "sent_id": "wikipedia.vislcg.txt:1000:20437",
+      "phrases": []
+    }
+  ]
+}

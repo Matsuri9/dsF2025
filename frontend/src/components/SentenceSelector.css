@@ -1,0 +1,116 @@
+.sentence-selector {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.sentence-selector label {
+    min-width: 70px;
+    font-weight: 500;
+    color: #64748b;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.sentence-select {
+    flex: 1;
+    min-width: 200px;
+    padding: 10px 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    background-color: rgba(30, 41, 59, 0.5);
+    cursor: pointer;
+    transition: all 0.2s;
+    color: #f1f5f9;
+}
+
+.sentence-select option {
+    background: #1e293b;
+    color: #f1f5f9;
+}
+
+.sentence-select:hover:not(:disabled) {
+    border-color: #3b82f6;
+}
+
+.sentence-select:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+.sentence-select:disabled {
+    background-color: rgba(30, 41, 59, 0.3);
+    cursor: not-allowed;
+    color: #475569;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.btn-secondary {
+    background-color: #3b82f6;
+    color: white;
+}
+
+.btn-secondary:hover:not(:disabled) {
+    background-color: #2563eb;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+}
+
+.btn:disabled {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #475569;
+    cursor: not-allowed;
+}
+
+.display-options {
+    display: flex;
+    align-items: center;
+    margin-left: 8px;
+    background: rgba(30, 41, 59, 0.5);
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    user-select: none;
+    font-weight: normal;
+    color: #94a3b8;
+}
+
+.checkbox-label input {
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    accent-color: #3b82f6;
+}
+
+@media (max-width: 768px) {
+    .sentence-selector {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .display-options {
+        margin-left: 0;
+        margin-top: 8px;
+    }
+}

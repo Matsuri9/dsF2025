@@ -1,0 +1,57 @@
+.similarity-display {
+    background: rgba(30, 41, 59, 0.5);
+    border-radius: 12px;
+    padding: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.similarity-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #64748b;
+    margin: 0 0 12px 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.similarity-grid {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.similarity-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.group-label {
+    font-size: 0.7rem;
+    color: #475569;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+
+.metric {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.metric .label {
+    font-size: 0.8rem;
+    color: #64748b;
+    min-width: 50px;
+}
+
+.metric .value {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #f1f5f9;
+    font-family: 'SF Mono', 'Monaco', 'Inconsolata', monospace;
+}
+
+.metric .value.distance {
+    color: #60a5fa;
+}
