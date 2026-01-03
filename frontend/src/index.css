@@ -26,3 +26,12 @@ body {
 #root {
   padding: 20px;
 }
+
+/* react-globe.gl ツールチップのコンテナをオーバーライド */
+.scene-tooltip {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+}

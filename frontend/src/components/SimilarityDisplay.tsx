@@ -1,3 +1,4 @@
+import { InfoTooltip } from './InfoTooltip';
 import './SimilarityDisplay.css';
 
 interface Props {
@@ -31,13 +32,28 @@ export function SimilarityDisplay({
             <h3 className="similarity-title">言語間類似度</h3>
             <div className="similarity-grid">
                 <div className="similarity-group">
-                    <span className="group-label">n-gram類似度</span>
+                    <span className="group-label">
+                        <InfoTooltip
+                            term="n-gram類似度"
+                            description="連続する単語・品詞の並びパターンの類似度。値が大きいほど類似。"
+                        />
+                    </span>
                     <div className="metric">
-                        <span className="label">UPOS</span>
+                        <span className="label">
+                            <InfoTooltip
+                                term="UPOS"
+                                description="Universal Part-of-Speech: 言語横断的な品詞タグ体系（名詞、動詞など17種類）"
+                            />
+                        </span>
                         <span className="value">{formatScore(uposSimilarity)}</span>
                     </div>
                     <div className="metric">
-                        <span className="label">DEPREL</span>
+                        <span className="label">
+                            <InfoTooltip
+                                term="DEPREL"
+                                description="Dependency Relation: 係り受け関係のタイプ（主語、目的語など37種類）"
+                            />
+                        </span>
                         <span className="value">{formatScore(deprelSimilarity)}</span>
                     </div>
                     <div className="metric">
@@ -46,7 +62,12 @@ export function SimilarityDisplay({
                     </div>
                 </div>
                 <div className="similarity-group">
-                    <span className="group-label">Head Direction距離</span>
+                    <span className="group-label">
+                        <InfoTooltip
+                            term="Head Direction距離"
+                            description="主要部（Head）が前に来るか後ろに来るかの傾向の違い。値が小さいほど類似。"
+                        />
+                    </span>
                     <div className="metric">
                         <span className="label">Raw</span>
                         <span className="value distance">{formatScore(headDirectionRawSimilarity, true)}</span>

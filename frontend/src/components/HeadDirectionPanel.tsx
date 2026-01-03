@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import type { HeadDirectionRates } from '../types';
+import { InfoTooltip } from './InfoTooltip';
 import './HeadDirectionPanel.css';
 
 interface Props {

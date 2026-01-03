@@ -208,15 +208,14 @@
 /* 係り受けツールチップ */
 .dependency-tooltip {
     position: fixed;
-    background: rgba(15, 23, 42, 0.95);
-    backdrop-filter: blur(10px);
+    background: #0f172a;
     border: 1px solid rgba(59, 130, 246, 0.3);
     border-radius: 10px;
     padding: 12px 16px;
     z-index: 1000;
     pointer-events: none;
     animation: tooltipFadeIn 0.15s ease;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
 }
 
 @keyframes tooltipFadeIn {
