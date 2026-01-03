@@ -1,7 +1,7 @@
-import { HashRouter, Routes, Route } from 'react-router-dom';
-import { GlobePage } from './pages/GlobePage';
-import { ComparisonPage } from './pages/ComparisonPage';
-import './App.css';
+import { HashRouter, Routes, Route } from "react-router-dom";
+import { GlobePage } from "./pages/GlobePage";
+import { ComparisonPage } from "./pages/ComparisonPage";
+import "./App.css";
 
 function App() {
   return (

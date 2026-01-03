@@ -1,51 +1,51 @@
 .language-selector {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
 }
 
 .selector-group {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
 
 .selector-group label {
-    font-weight: 500;
-    color: #64748b;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+  font-weight: 500;
+  color: #64748b;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .language-select {
-    padding: 10px 12px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    border-radius: 8px;
-    font-size: 0.95rem;
-    background-color: rgba(30, 41, 59, 0.5);
-    cursor: pointer;
-    transition: all 0.2s;
-    color: #f1f5f9;
+  padding: 10px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  background-color: rgba(30, 41, 59, 0.5);
+  cursor: pointer;
+  transition: all 0.2s;
+  color: #f1f5f9;
 }
 
 .language-select option {
-    background: #1e293b;
-    color: #f1f5f9;
+  background: #1e293b;
+  color: #f1f5f9;
 }
 
 .language-select:hover {
-    border-color: #3b82f6;
+  border-color: #3b82f6;
 }
 
 .language-select:focus {
-    outline: none;
-    border-color: #3b82f6;
-    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
 }
 
 @media (max-width: 768px) {
-    .language-selector {
-        grid-template-columns: 1fr;
-    }
+  .language-selector {
+    grid-template-columns: 1fr;
+  }
 }

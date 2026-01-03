@@ -1,258 +1,258 @@
 .popup-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.7);
-    backdrop-filter: blur(8px);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 1000;
-    animation: fadeIn 0.2s ease;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: fadeIn 0.2s ease;
 }
 
 @keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
+  from {
+    opacity: 0;
+  }
 
-    to {
-        opacity: 1;
-    }
+  to {
+    opacity: 1;
+  }
 }
 
 .language-popup {
-    background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
-    border: 1px solid rgba(59, 130, 246, 0.2);
-    border-radius: 20px;
-    padding: 0;
-    max-width: 420px;
-    width: 90%;
-    position: relative;
-    animation: slideUp 0.3s ease;
-    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
-    overflow: hidden;
+  background: linear-gradient(180deg, #1e293b 0%, #0f172a 100%);
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  border-radius: 20px;
+  padding: 0;
+  max-width: 420px;
+  width: 90%;
+  position: relative;
+  animation: slideUp 0.3s ease;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
 }
 
 @keyframes slideUp {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
 
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .popup-close {
-    position: absolute;
-    top: 16px;
-    right: 16px;
-    background: rgba(255, 255, 255, 0.1);
-    border: none;
-    color: #94a3b8;
-    font-size: 20px;
-    cursor: pointer;
-    width: 36px;
-    height: 36px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    transition: all 0.2s;
-    z-index: 10;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  color: #94a3b8;
+  font-size: 20px;
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: all 0.2s;
+  z-index: 10;
 }
 
 .popup-close:hover {
-    background: rgba(255, 255, 255, 0.2);
-    color: #f1f5f9;
-    transform: scale(1.1);
+  background: rgba(255, 255, 255, 0.2);
+  color: #f1f5f9;
+  transform: scale(1.1);
 }
 
 /* ヘッダー */
 .popup-header {
-    padding: 24px 24px 16px;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 24px 24px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .header-main {
-    display: flex;
-    align-items: baseline;
-    gap: 12px;
-    margin-bottom: 8px;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 8px;
 }
 
 .popup-title {
-    font-size: 1.75rem;
-    font-weight: 700;
-    color: #f1f5f9;
-    margin: 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #f1f5f9;
+  margin: 0;
 }
 
 .popup-english {
-    font-size: 1rem;
-    color: #64748b;
+  font-size: 1rem;
+  color: #64748b;
 }
 
 .header-location {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 0.85rem;
-    color: #94a3b8;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  color: #94a3b8;
 }
 
 .location-icon {
-    font-size: 0.9rem;
+  font-size: 0.9rem;
 }
 
 /* 語順傾向セクション */
 .tendency-section {
-    padding: 20px 24px;
-    background: rgba(0, 0, 0, 0.2);
+  padding: 20px 24px;
+  background: rgba(0, 0, 0, 0.2);
 }
 
 .tendency-badge {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 12px 24px;
-    border-radius: 12px;
-    border: 1px solid;
-    margin-bottom: 10px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px 24px;
+  border-radius: 12px;
+  border: 1px solid;
+  margin-bottom: 10px;
 }
 
 .tendency-main {
-    font-size: 1.1rem;
-    font-weight: 700;
+  font-size: 1.1rem;
+  font-weight: 700;
 }
 
 .tendency-sub {
-    font-size: 0.75rem;
-    opacity: 0.8;
-    margin-top: 2px;
+  font-size: 0.75rem;
+  opacity: 0.8;
+  margin-top: 2px;
 }
 
 .tendency-description {
-    font-size: 0.85rem;
-    color: #94a3b8;
-    margin: 0;
-    line-height: 1.5;
+  font-size: 0.85rem;
+  color: #94a3b8;
+  margin: 0;
+  line-height: 1.5;
 }
 
 /* Head-Initial率セクション */
 .rates-section {
-    padding: 20px 24px;
+  padding: 20px 24px;
 }
 
 .section-title {
-    font-size: 0.7rem;
-    font-weight: 600;
-    color: #64748b;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin: 0 0 14px 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #64748b;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 0 0 14px 0;
 }
 
 .rates-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 12px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
 }
 
 .rate-card {
-    background: rgba(255, 255, 255, 0.03);
-    border-radius: 10px;
-    padding: 12px;
-    text-align: center;
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 10px;
+  padding: 12px;
+  text-align: center;
 }
 
 .rate-header {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 4px;
-    margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  margin-bottom: 8px;
 }
 
 .rate-label {
-    font-size: 0.7rem;
-    color: #64748b;
-    font-weight: 500;
+  font-size: 0.7rem;
+  color: #64748b;
+  font-weight: 500;
 }
 
 .rate-value {
-    font-size: 1.25rem;
-    font-weight: 700;
-    color: #f1f5f9;
-    font-family: 'SF Mono', monospace;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #f1f5f9;
+  font-family: "SF Mono", monospace;
 }
 
 .rate-bar-container {
-    width: 100%;
-    height: 4px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 2px;
-    overflow: hidden;
-    margin-bottom: 8px;
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-bottom: 8px;
 }
 
 .rate-bar-fill {
-    height: 100%;
-    border-radius: 2px;
-    transition: width 0.3s ease;
+  height: 100%;
+  border-radius: 2px;
+  transition: width 0.3s ease;
 }
 
 .rate-description {
-    font-size: 0.65rem;
-    color: #475569;
-    line-height: 1.3;
+  font-size: 0.65rem;
+  color: #475569;
+  line-height: 1.3;
 }
 
 /* 類似言語セクション */
 .similar-section {
-    padding: 16px 24px;
-    border-top: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 16px 24px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .similar-tags {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
 }
 
 .similar-tag {
-    background: rgba(59, 130, 246, 0.15);
-    color: #60a5fa;
-    padding: 6px 12px;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 500;
+  background: rgba(59, 130, 246, 0.15);
+  color: #60a5fa;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
 }
 
 /* フッター */
 .popup-footer {
-    padding: 14px 24px;
-    background: rgba(0, 0, 0, 0.2);
-    text-align: center;
+  padding: 14px 24px;
+  background: rgba(0, 0, 0, 0.2);
+  text-align: center;
 }
 
 .footer-hint {
-    font-size: 0.8rem;
-    color: #475569;
+  font-size: 0.8rem;
+  color: #475569;
 }
 
 /* レスポンシブ */
 @media (max-width: 480px) {
-    .rates-grid {
-        grid-template-columns: 1fr;
-    }
+  .rates-grid {
+    grid-template-columns: 1fr;
+  }
 
-    .popup-title {
-        font-size: 1.5rem;
-    }
+  .popup-title {
+    font-size: 1.5rem;
+  }
 }

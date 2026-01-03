@@ -1,95 +1,95 @@
 .info-tooltip-wrapper {
-    display: inline-flex;
-    align-items: center;
-    gap: 4px;
-    position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: relative;
 }
 
 .info-icon {
-    font-size: 0.75rem;
-    color: #60a5fa;
-    cursor: help;
-    opacity: 0.7;
-    transition: opacity 0.2s;
-    user-select: none;
+  font-size: 0.75rem;
+  color: #60a5fa;
+  cursor: help;
+  opacity: 0.7;
+  transition: opacity 0.2s;
+  user-select: none;
 }
 
 .info-icon:hover {
-    opacity: 1;
+  opacity: 1;
 }
 
 .info-tooltip-popup {
-    position: absolute;
-    left: 100%;
-    top: 50%;
-    transform: translateY(-50%);
-    margin-left: 8px;
-    background: rgba(15, 23, 42, 0.98);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(59, 130, 246, 0.4);
-    border-radius: 8px;
-    padding: 10px 14px;
-    font-size: 0.8rem;
-    color: #e2e8f0;
-    min-width: 250px;
-    max-width: 400px;
-    white-space: normal;
-    z-index: 1000;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
-    animation: tooltipFadeIn 0.15s ease;
-    pointer-events: none;
+  position: absolute;
+  left: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+  margin-left: 8px;
+  background: rgba(15, 23, 42, 0.98);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(59, 130, 246, 0.4);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 0.8rem;
+  color: #e2e8f0;
+  min-width: 250px;
+  max-width: 400px;
+  white-space: normal;
+  z-index: 1000;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
+  animation: tooltipFadeIn 0.15s ease;
+  pointer-events: none;
 }
 
 .info-tooltip-popup::before {
-    content: '';
-    position: absolute;
-    left: -6px;
-    top: 50%;
-    transform: translateY(-50%);
-    border: 6px solid transparent;
-    border-right-color: rgba(59, 130, 246, 0.4);
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 6px solid transparent;
+  border-right-color: rgba(59, 130, 246, 0.4);
 }
 
 .info-tooltip-popup::after {
-    content: '';
-    position: absolute;
-    left: -5px;
-    top: 50%;
-    transform: translateY(-50%);
-    border: 5px solid transparent;
-    border-right-color: rgba(15, 23, 42, 0.98);
+  content: "";
+  position: absolute;
+  left: -5px;
+  top: 50%;
+  transform: translateY(-50%);
+  border: 5px solid transparent;
+  border-right-color: rgba(15, 23, 42, 0.98);
 }
 
 @keyframes tooltipFadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(-50%) translateX(5px);
-    }
+  from {
+    opacity: 0;
+    transform: translateY(-50%) translateX(5px);
+  }
 
-    to {
-        opacity: 1;
-        transform: translateY(-50%) translateX(0);
-    }
+  to {
+    opacity: 1;
+    transform: translateY(-50%) translateX(0);
+  }
 }
 
 /* 画面右側にある場合は左側に表示 */
 .info-tooltip-wrapper.left .info-tooltip-popup {
-    left: auto;
-    right: 100%;
-    margin-left: 0;
-    margin-right: 8px;
+  left: auto;
+  right: 100%;
+  margin-left: 0;
+  margin-right: 8px;
 }
 
 .info-tooltip-wrapper.left .info-tooltip-popup::before {
-    left: auto;
-    right: -6px;
-    border-right-color: transparent;
-    border-left-color: rgba(59, 130, 246, 0.4);
+  left: auto;
+  right: -6px;
+  border-right-color: transparent;
+  border-left-color: rgba(59, 130, 246, 0.4);
 }
 
 .info-tooltip-wrapper.left .info-tooltip-popup::after {
-    left: auto;
-    right: -5px;
-    border-right-color: transparent;
-    border-left-color: rgba(15, 23, 42, 0.98);
+  left: auto;
+  right: -5px;
+  border-right-color: transparent;
+  border-left-color: rgba(15, 23, 42, 0.98);
 }
