@@ -288,13 +288,18 @@ def parse_token_line(line: str) -> Optional[Dict[str, Any]]:
         return None
 
 
-def parse_conllu_file(file_path: str, language_name: str) -> Dict[str, Any]:
+def parse_conllu_file(
+    file_path: str, 
+    language_name: str, 
+    max_sentences: Optional[int] = None
+) -> Dict[str, Any]:
     """
     CoNLL-Uファイルをパースして構造化データに変換
     
     Args:
         file_path: CoNLL-Uファイルのパス
         language_name: 言語名
+        max_sentences: 最大文数（Noneなら全文を処理）
     
     Returns:
         パース結果の辞書
@@ -307,6 +312,10 @@ def parse_conllu_file(file_path: str, language_name: str) -> Dict[str, Any]:
     with open(file_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.rstrip('\n')
+            
+            # 最大文数に達したら終了
+            if max_sentences is not None and len(sentences) >= max_sentences:
+                break
             
             # 空行は文の区切り
             if not line.strip():
@@ -352,8 +361,9 @@ def parse_conllu_file(file_path: str, language_name: str) -> Dict[str, Any]:
         
         # ファイル末尾の文を処理
         if current_sentence is not None and current_tokens:
-            current_sentence["tokens"] = current_tokens
-            sentences.append(current_sentence)
+            if max_sentences is None or len(sentences) < max_sentences:
+                current_sentence["tokens"] = current_tokens
+                sentences.append(current_sentence)
     
     return {
         "language": language_name,

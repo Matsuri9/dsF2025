@@ -1,86 +1,7554 @@
 {
   "language": "Komi_Zyrian",
-  "total_phrases": 138,
+  "sentence_count": 20,
+  "total_phrases": 132,
+  "total_tokens": 158,
   "sentences": [
     {
       "sent_id": "kpv-brat_2018:01",
-      "phrases": []
+      "text": "Ныв ёртыслы гижис письмӧ.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Ныв",
+          "lemma": "ныв",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "ёртыслы",
+          "lemma": "ёрт",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Dat",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 3,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "гижис",
+          "lemma": "гижны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "письмӧ",
+          "lemma": "письмӧ",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 5,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Ныв",
+          "head_upos": "NOUN",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Ныв",
+              "lemma": "ныв",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Ныв"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Ныв"
+        },
+        {
+          "head_id": 2,
+          "head_form": "ёртыслы",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "ёртыслы",
+              "lemma": "ёрт",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Dat",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 3,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "ёртыслы"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "ёртыслы"
+        },
+        {
+          "head_id": 3,
+          "head_form": "гижис",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "гижис",
+              "lemma": "гижны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "гижис"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "гижис"
+        },
+        {
+          "head_id": 4,
+          "head_form": "письмӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "письмӧ",
+              "lemma": "письмӧ",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "письмӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "письмӧ"
+        },
+        {
+          "head_id": 5,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 5,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 5,
+      "token_count": 5
     },
     {
       "sent_id": "kpv-brat_2018:02",
-      "phrases": []
+      "text": "Меным кажитчӧ, мый зэрӧ.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Меным",
+          "lemma": "ме",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Dat",
+            "Number": "Sing",
+            "Person": "1",
+            "PronType": "Prs"
+          },
+          "head": 2,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "кажитчӧ",
+          "lemma": "кажитчыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 3,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 5,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "мый",
+          "lemma": "мый",
+          "upos": "SCONJ",
+          "xpos": "CS",
+          "feats": {},
+          "head": 5,
+          "deprel": "mark",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "зэрӧ",
+          "lemma": "зэрны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 2,
+          "deprel": "csubj",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 6,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 2,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Меным",
+          "head_upos": "PRON",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Меным",
+              "lemma": "ме",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Dat",
+                "Number": "Sing",
+                "Person": "1",
+                "PronType": "Prs"
+              },
+              "head": 2,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Меным"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "Меным"
+        },
+        {
+          "head_id": 2,
+          "head_form": "кажитчӧ",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "кажитчӧ",
+              "lemma": "кажитчыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "кажитчӧ"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "кажитчӧ"
+        },
+        {
+          "head_id": 3,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 3,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 5,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 5,
+          "head_form": "зэрӧ",
+          "head_upos": "VERB",
+          "head_deprel": "csubj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "мый",
+              "lemma": "мый",
+              "upos": "SCONJ",
+              "xpos": "CS",
+              "feats": {},
+              "head": 5,
+              "deprel": "mark",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 5,
+              "form": "зэрӧ",
+              "lemma": "зэрны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 2,
+              "deprel": "csubj",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "мый",
+            "зэрӧ"
+          ],
+          "upos_tags": [
+            "SCONJ",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "mark",
+            "csubj"
+          ],
+          "text": "мый зэрӧ"
+        },
+        {
+          "head_id": 6,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 6,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 2,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 5,
+      "token_count": 6
     },
     {
       "sent_id": "kpv-brat_2018:03",
-      "phrases": []
+      "text": "Сійӧ заводитліс чӧвтны куритчӧмсӧ да юӧмсӧ.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Сійӧ",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 2,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "заводитліс",
+          "lemma": "заводітны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 3,
+          "form": "чӧвтны",
+          "lemma": "чӧвтны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 2,
+          "deprel": "xcomp",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "куритчӧмсӧ",
+          "lemma": "куритчӧм",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 5,
+          "form": "да",
+          "lemma": "да",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 6,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 6,
+          "form": "юӧмсӧ",
+          "lemma": "юӧм",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing"
+          },
+          "head": 4,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 7,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 2,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Сійӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Сійӧ",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 2,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Сійӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Сійӧ"
+        },
+        {
+          "head_id": 2,
+          "head_form": "заводитліс",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "заводитліс",
+              "lemma": "заводітны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "заводитліс"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "заводитліс"
+        },
+        {
+          "head_id": 3,
+          "head_form": "чӧвтны",
+          "head_upos": "VERB",
+          "head_deprel": "xcomp",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "чӧвтны",
+              "lemma": "чӧвтны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 2,
+              "deprel": "xcomp",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "чӧвтны"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "xcomp"
+          ],
+          "text": "чӧвтны"
+        },
+        {
+          "head_id": 4,
+          "head_form": "куритчӧмсӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "куритчӧмсӧ",
+              "lemma": "куритчӧм",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "куритчӧмсӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "куритчӧмсӧ"
+        },
+        {
+          "head_id": 6,
+          "head_form": "юӧмсӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "да",
+              "lemma": "да",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 6,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 6,
+              "form": "юӧмсӧ",
+              "lemma": "юӧм",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing"
+              },
+              "head": 4,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "да",
+            "юӧмсӧ"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "cc",
+            "conj"
+          ],
+          "text": "да юӧмсӧ"
+        },
+        {
+          "head_id": 7,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 7,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 2,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 6,
+      "token_count": 7
     },
     {
       "sent_id": "kpv-brat_2018:04",
-      "phrases": []
+      "text": "Кӧсъян мунны?",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Кӧсъян",
+          "lemma": "кӧсйыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "мунны",
+          "lemma": "мунны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 1,
+          "deprel": "xcomp",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 3,
+          "form": "?",
+          "lemma": "?",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 1,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Кӧсъян",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Кӧсъян",
+              "lemma": "кӧсйыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "2",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Кӧсъян"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "Кӧсъян"
+        },
+        {
+          "head_id": 2,
+          "head_form": "мунны",
+          "head_upos": "VERB",
+          "head_deprel": "xcomp",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "мунны",
+              "lemma": "мунны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 1,
+              "deprel": "xcomp",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "мунны"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "xcomp"
+          ],
+          "text": "мунны"
+        },
+        {
+          "head_id": 3,
+          "head_form": "?",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "?",
+              "lemma": "?",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 1,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "?"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "?"
+        }
+      ],
+      "phrase_count": 3,
+      "token_count": 3
     },
     {
       "sent_id": "kpv-brat_2018:05",
-      "phrases": []
+      "text": "Сэм, восьты ӧшиньсӧ!",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Сэм",
+          "lemma": "сэм",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "vocative",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 2,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "восьты",
+          "lemma": "восьтны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "ӧшиньсӧ",
+          "lemma": "ӧшинь",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 3,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 5,
+          "form": "!",
+          "lemma": "!",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Сэм",
+          "head_upos": "NOUN",
+          "head_deprel": "vocative",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Сэм",
+              "lemma": "сэм",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "vocative",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "Сэм"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "vocative"
+          ],
+          "text": "Сэм"
+        },
+        {
+          "head_id": 2,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 2,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 3,
+          "head_form": "восьты",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "восьты",
+              "lemma": "восьтны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Imp",
+                "Number": "Sing",
+                "Person": "2",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "восьты"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "восьты"
+        },
+        {
+          "head_id": 4,
+          "head_form": "ӧшиньсӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "ӧшиньсӧ",
+              "lemma": "ӧшинь",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 3,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "ӧшиньсӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "ӧшиньсӧ"
+        },
+        {
+          "head_id": 5,
+          "head_form": "!",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "!",
+              "lemma": "!",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "!"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "!"
+        }
+      ],
+      "phrase_count": 5,
+      "token_count": 5
     },
     {
       "sent_id": "kpv-brat_2018:06",
-      "phrases": []
+      "text": "Сійӧ тшӧктіс верӧсыслы мыськыны машинасӧ.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Сійӧ",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 2,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "тшӧктіс",
+          "lemma": "тшӧктыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "верӧсыслы",
+          "lemma": "верӧс",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Dat",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 2,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "мыськыны",
+          "lemma": "мыськыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 2,
+          "deprel": "xcomp",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "машинасӧ",
+          "lemma": "машина",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 4,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 6,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 2,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Сійӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Сійӧ",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 2,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Сійӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Сійӧ"
+        },
+        {
+          "head_id": 2,
+          "head_form": "тшӧктіс",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "тшӧктіс",
+              "lemma": "тшӧктыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "тшӧктіс"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "тшӧктіс"
+        },
+        {
+          "head_id": 3,
+          "head_form": "верӧсыслы",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "верӧсыслы",
+              "lemma": "верӧс",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Dat",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 2,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "верӧсыслы"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "верӧсыслы"
+        },
+        {
+          "head_id": 4,
+          "head_form": "мыськыны",
+          "head_upos": "VERB",
+          "head_deprel": "xcomp",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "мыськыны",
+              "lemma": "мыськыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 2,
+              "deprel": "xcomp",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "мыськыны"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "xcomp"
+          ],
+          "text": "мыськыны"
+        },
+        {
+          "head_id": 5,
+          "head_form": "машинасӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "машинасӧ",
+              "lemma": "машина",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 4,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "машинасӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "машинасӧ"
+        },
+        {
+          "head_id": 6,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 6,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 2,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 6,
+      "token_count": 6
     },
     {
       "sent_id": "kpv-brat_2018:07",
-      "phrases": []
+      "text": "Петилӧн суседыс краситӧма заборсӧ.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Петилӧн",
+          "lemma": "Пети",
+          "upos": "PROPN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Gen",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "nmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "суседыс",
+          "lemma": "сусед",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 3,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 3,
+          "form": "краситӧма",
+          "lemma": "краситны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Evident": "Nfh",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 4,
+          "form": "заборсӧ",
+          "lemma": "забор",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 3,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 5,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Петилӧн",
+          "head_upos": "PROPN",
+          "head_deprel": "nmod",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Петилӧн",
+              "lemma": "Пети",
+              "upos": "PROPN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Gen",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "nmod",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Петилӧн"
+          ],
+          "upos_tags": [
+            "PROPN"
+          ],
+          "deprel_tags": [
+            "nmod"
+          ],
+          "text": "Петилӧн"
+        },
+        {
+          "head_id": 2,
+          "head_form": "суседыс",
+          "head_upos": "NOUN",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "суседыс",
+              "lemma": "сусед",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 3,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "суседыс"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "суседыс"
+        },
+        {
+          "head_id": 3,
+          "head_form": "краситӧма",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "краситӧма",
+              "lemma": "краситны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Evident": "Nfh",
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "краситӧма"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "краситӧма"
+        },
+        {
+          "head_id": 4,
+          "head_form": "заборсӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "заборсӧ",
+              "lemma": "забор",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 3,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "заборсӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "заборсӧ"
+        },
+        {
+          "head_id": 5,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 5,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 5,
+      "token_count": 5
     },
     {
       "sent_id": "kpv-brat_2018:08",
-      "phrases": []
+      "text": "Менам батьӧй тэнад батьсьыд бурджык.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Менам",
+          "lemma": "ме",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Gen",
+            "Number": "Sing",
+            "Person": "1",
+            "PronType": "Prs"
+          },
+          "head": 2,
+          "deprel": "nmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "батьӧй",
+          "lemma": "бать",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+          },
+          "head": 5,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 3,
+          "form": "тэнад",
+          "lemma": "тэ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Gen",
+            "Number": "Sing",
+            "Person": "2",
+            "PronType": "Prs"
+          },
+          "head": 4,
+          "deprel": "nmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "батьсьыд",
+          "lemma": "бать",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Ela",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+          },
+          "head": 5,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 5,
+          "form": "бурджык",
+          "lemma": "бур",
+          "upos": "ADJ",
+          "xpos": "A",
+          "feats": {
+            "Case": "Nom",
+            "Degree": "Cmp",
+            "Number": "Sing"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 6,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 5,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Менам",
+          "head_upos": "PRON",
+          "head_deprel": "nmod",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Менам",
+              "lemma": "ме",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Gen",
+                "Number": "Sing",
+                "Person": "1",
+                "PronType": "Prs"
+              },
+              "head": 2,
+              "deprel": "nmod",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Менам"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nmod"
+          ],
+          "text": "Менам"
+        },
+        {
+          "head_id": 2,
+          "head_form": "батьӧй",
+          "head_upos": "NOUN",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "батьӧй",
+              "lemma": "бать",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "1"
+              },
+              "head": 5,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "батьӧй"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "батьӧй"
+        },
+        {
+          "head_id": 3,
+          "head_form": "тэнад",
+          "head_upos": "PRON",
+          "head_deprel": "nmod",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "тэнад",
+              "lemma": "тэ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Gen",
+                "Number": "Sing",
+                "Person": "2",
+                "PronType": "Prs"
+              },
+              "head": 4,
+              "deprel": "nmod",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "тэнад"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nmod"
+          ],
+          "text": "тэнад"
+        },
+        {
+          "head_id": 4,
+          "head_form": "батьсьыд",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "батьсьыд",
+              "lemma": "бать",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Ela",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "2"
+              },
+              "head": 5,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "батьсьыд"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "батьсьыд"
+        },
+        {
+          "head_id": 5,
+          "head_form": "бурджык",
+          "head_upos": "ADJ",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "бурджык",
+              "lemma": "бур",
+              "upos": "ADJ",
+              "xpos": "A",
+              "feats": {
+                "Case": "Nom",
+                "Degree": "Cmp",
+                "Number": "Sing"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "бурджык"
+          ],
+          "upos_tags": [
+            "ADJ"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "бурджык"
+        },
+        {
+          "head_id": 6,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 6,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 5,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 6,
+      "token_count": 6
     },
     {
       "sent_id": "kpv-brat_2018:09",
-      "phrases": []
+      "text": "Мери шедӧдіс бронза, Питер - эзысь, а Джейн - зарни.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Мери",
+          "lemma": "Мери",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 2,
+          "form": "шедӧдіс",
+          "lemma": "шедӧдны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "бронза",
+          "lemma": "бронза",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 4,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 5,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "Питер",
+          "lemma": "Питер",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "-",
+          "lemma": "-",
+          "upos": "PUNCT",
+          "xpos": "PUNCT",
+          "feats": {},
+          "head": 7,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "эзысь",
+          "lemma": "эзысь",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 5,
+          "deprel": "orphan",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 8,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 10,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 9,
+          "form": "а",
+          "lemma": "а",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 10,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 10,
+          "form": "Джейн",
+          "lemma": "Джейн",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 11,
+          "form": "-",
+          "lemma": "-",
+          "upos": "PUNCT",
+          "xpos": "PUNCT",
+          "feats": {},
+          "head": 12,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 12,
+          "form": "зарни",
+          "lemma": "зарни",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 10,
+          "deprel": "orphan",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 13,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 2,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Мери",
+          "head_upos": "NOUN",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Мери",
+              "lemma": "Мери",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "Мери"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Мери"
+        },
+        {
+          "head_id": 2,
+          "head_form": "шедӧдіс",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "шедӧдіс",
+              "lemma": "шедӧдны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "шедӧдіс"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "шедӧдіс"
+        },
+        {
+          "head_id": 3,
+          "head_form": "бронза",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "бронза",
+              "lemma": "бронза",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "бронза"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "бронза"
+        },
+        {
+          "head_id": 4,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 4,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 5,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 5,
+          "head_form": "Питер",
+          "head_upos": "NOUN",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "Питер",
+              "lemma": "Питер",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "Питер"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "conj"
+          ],
+          "text": "Питер"
+        },
+        {
+          "head_id": 6,
+          "head_form": "-",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 6,
+              "form": "-",
+              "lemma": "-",
+              "upos": "PUNCT",
+              "xpos": "PUNCT",
+              "feats": {},
+              "head": 7,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "-"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "-"
+        },
+        {
+          "head_id": 7,
+          "head_form": "эзысь",
+          "head_upos": "NOUN",
+          "head_deprel": "orphan",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "эзысь",
+              "lemma": "эзысь",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 5,
+              "deprel": "orphan",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "эзысь"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "orphan"
+          ],
+          "text": "эзысь"
+        },
+        {
+          "head_id": 8,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 8,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 10,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 10,
+          "head_form": "Джейн",
+          "head_upos": "NOUN",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 9,
+              "form": "а",
+              "lemma": "а",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 10,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 10,
+              "form": "Джейн",
+              "lemma": "Джейн",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "а",
+            "Джейн"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "cc",
+            "conj"
+          ],
+          "text": "а Джейн"
+        },
+        {
+          "head_id": 11,
+          "head_form": "-",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 11,
+              "form": "-",
+              "lemma": "-",
+              "upos": "PUNCT",
+              "xpos": "PUNCT",
+              "feats": {},
+              "head": 12,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "-"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "-"
+        },
+        {
+          "head_id": 12,
+          "head_form": "зарни",
+          "head_upos": "NOUN",
+          "head_deprel": "orphan",
+          "tokens": [
+            {
+              "id": 12,
+              "form": "зарни",
+              "lemma": "зарни",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 10,
+              "deprel": "orphan",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "зарни"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "orphan"
+          ],
+          "text": "зарни"
+        },
+        {
+          "head_id": 13,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 13,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 2,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 12,
+      "token_count": 13
     },
     {
       "sent_id": "kpv-brat_2018:10",
-      "phrases": []
+      "text": "Игаузу - тайӧ ыджыд либӧ ичӧт канму?",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Игаузу",
+          "lemma": "Игаузу",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 7,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 2,
+          "form": "-",
+          "lemma": "-",
+          "upos": "PUNCT",
+          "xpos": "PUNCT",
+          "feats": {},
+          "head": 7,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "тайӧ",
+          "lemma": "тайӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "PronType": "Dem"
+          },
+          "head": 7,
+          "deprel": "det",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "ыджыд",
+          "lemma": "ыджыд",
+          "upos": "ADJ",
+          "xpos": "A",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 7,
+          "deprel": "amod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "либӧ",
+          "lemma": "либӧ",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 6,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "ичӧт",
+          "lemma": "ичӧт",
+          "upos": "ADJ",
+          "xpos": "A",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 4,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "канму",
+          "lemma": "канму",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 8,
+          "form": "?",
+          "lemma": "?",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 7,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Игаузу",
+          "head_upos": "NOUN",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Игаузу",
+              "lemma": "Игаузу",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 7,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "Игаузу"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Игаузу"
+        },
+        {
+          "head_id": 2,
+          "head_form": "-",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "-",
+              "lemma": "-",
+              "upos": "PUNCT",
+              "xpos": "PUNCT",
+              "feats": {},
+              "head": 7,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "-"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "-"
+        },
+        {
+          "head_id": 3,
+          "head_form": "тайӧ",
+          "head_upos": "PRON",
+          "head_deprel": "det",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "тайӧ",
+              "lemma": "тайӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "PronType": "Dem"
+              },
+              "head": 7,
+              "deprel": "det",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "тайӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "det"
+          ],
+          "text": "тайӧ"
+        },
+        {
+          "head_id": 4,
+          "head_form": "ыджыд",
+          "head_upos": "ADJ",
+          "head_deprel": "amod",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "ыджыд",
+              "lemma": "ыджыд",
+              "upos": "ADJ",
+              "xpos": "A",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 7,
+              "deprel": "amod",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "ыджыд"
+          ],
+          "upos_tags": [
+            "ADJ"
+          ],
+          "deprel_tags": [
+            "amod"
+          ],
+          "text": "ыджыд"
+        },
+        {
+          "head_id": 6,
+          "head_form": "ичӧт",
+          "head_upos": "ADJ",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "либӧ",
+              "lemma": "либӧ",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 6,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            },
+            {
+              "id": 6,
+              "form": "ичӧт",
+              "lemma": "ичӧт",
+              "upos": "ADJ",
+              "xpos": "A",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 4,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "либӧ",
+            "ичӧт"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "ADJ"
+          ],
+          "deprel_tags": [
+            "cc",
+            "conj"
+          ],
+          "text": "либӧ ичӧт"
+        },
+        {
+          "head_id": 7,
+          "head_form": "канму",
+          "head_upos": "NOUN",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "канму",
+              "lemma": "канму",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "канму"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "канму"
+        },
+        {
+          "head_id": 8,
+          "head_form": "?",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 8,
+              "form": "?",
+              "lemma": "?",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 7,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "?"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "?"
+        }
+      ],
+      "phrase_count": 7,
+      "token_count": 8
     },
     {
       "sent_id": "kpv-brat_2018:11",
-      "phrases": []
+      "text": "Эз позь бӧрйыны ни Питер Смитӧс, ни Мери Браунӧс.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Эз",
+          "lemma": "оз",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 3,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "позь",
+          "lemma": "позьны",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Connegative": "Yes"
+          },
+          "head": 3,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "бӧрйыны",
+          "lemma": "бӧрйыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "ни",
+          "lemma": "ни",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {
+            "Polarity": "Neg"
+          },
+          "head": 5,
+          "deprel": "cc:preconj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "Питер",
+          "lemma": "Питер",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "Смитӧс",
+          "lemma": "Смит",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing"
+          },
+          "head": 5,
+          "deprel": "flat:name",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 7,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 9,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 8,
+          "form": "ни",
+          "lemma": "ни",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {
+            "Polarity": "Neg"
+          },
+          "head": 9,
+          "deprel": "cc:preconj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 9,
+          "form": "Мери",
+          "lemma": "Мери",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 5,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 10,
+          "form": "Браунӧс",
+          "lemma": "Браун",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing"
+          },
+          "head": 9,
+          "deprel": "flat:name",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 11,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 3,
+          "head_form": "бӧрйыны",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Эз",
+              "lemma": "оз",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Polarity": "Neg",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 3,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 2,
+              "form": "позь",
+              "lemma": "позьны",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Connegative": "Yes"
+              },
+              "head": 3,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 3,
+              "form": "бӧрйыны",
+              "lemma": "бӧрйыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Эз",
+            "позь",
+            "бӧрйыны"
+          ],
+          "upos_tags": [
+            "AUX",
+            "AUX",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "aux",
+            "aux",
+            "root"
+          ],
+          "text": "Эз позь бӧрйыны"
+        },
+        {
+          "head_id": 5,
+          "head_form": "Питер",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "ни",
+              "lemma": "ни",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {
+                "Polarity": "Neg"
+              },
+              "head": 5,
+              "deprel": "cc:preconj",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 5,
+              "form": "Питер",
+              "lemma": "Питер",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            },
+            {
+              "id": 6,
+              "form": "Смитӧс",
+              "lemma": "Смит",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing"
+              },
+              "head": 5,
+              "deprel": "flat:name",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "ни",
+            "Питер",
+            "Смитӧс"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "NOUN",
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "cc:preconj",
+            "obj",
+            "flat:name"
+          ],
+          "text": "ни Питер Смитӧс"
+        },
+        {
+          "head_id": 7,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 7,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 9,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 9,
+          "head_form": "Мери",
+          "head_upos": "NOUN",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 8,
+              "form": "ни",
+              "lemma": "ни",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {
+                "Polarity": "Neg"
+              },
+              "head": 9,
+              "deprel": "cc:preconj",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 9,
+              "form": "Мери",
+              "lemma": "Мери",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 5,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            },
+            {
+              "id": 10,
+              "form": "Браунӧс",
+              "lemma": "Браун",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing"
+              },
+              "head": 9,
+              "deprel": "flat:name",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "ни",
+            "Мери",
+            "Браунӧс"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "NOUN",
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "cc:preconj",
+            "conj",
+            "flat:name"
+          ],
+          "text": "ни Мери Браунӧс"
+        },
+        {
+          "head_id": 11,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 11,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 5,
+      "token_count": 11
     },
     {
       "sent_id": "kpv-brat_2018:12",
-      "phrases": []
+      "text": "Найӧ дзик оз тӧдны, коді тайӧс гижис.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Найӧ",
+          "lemma": "найӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Plur",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 4,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "дзик",
+          "lemma": "дзик",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 4,
+          "deprel": "advmod:deg",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "оз",
+          "lemma": "оз",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 4,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "тӧдны",
+          "lemma": "тӧдны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Connegative": "Yes"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 5,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 8,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 6,
+          "form": "коді",
+          "lemma": "коді",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "PronType": "Rel"
+          },
+          "head": 8,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "тайӧс",
+          "lemma": "тайӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "PronType": "Dem"
+          },
+          "head": 8,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 8,
+          "form": "гижис",
+          "lemma": "гижны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 4,
+          "deprel": "ccomp",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 9,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 4,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Найӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Найӧ",
+              "lemma": "найӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Plur",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 4,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Найӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Найӧ"
+        },
+        {
+          "head_id": 4,
+          "head_form": "тӧдны",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "дзик",
+              "lemma": "дзик",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 4,
+              "deprel": "advmod:deg",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 3,
+              "form": "оз",
+              "lemma": "оз",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Plur",
+                "Person": "3",
+                "Polarity": "Neg",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 4,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 4,
+              "form": "тӧдны",
+              "lemma": "тӧдны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Connegative": "Yes"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "дзик",
+            "оз",
+            "тӧдны"
+          ],
+          "upos_tags": [
+            "ADV",
+            "AUX",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "advmod:deg",
+            "aux",
+            "root"
+          ],
+          "text": "дзик оз тӧдны"
+        },
+        {
+          "head_id": 5,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 5,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 8,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 6,
+          "head_form": "коді",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 6,
+              "form": "коді",
+              "lemma": "коді",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "PronType": "Rel"
+              },
+              "head": 8,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "коді"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "коді"
+        },
+        {
+          "head_id": 7,
+          "head_form": "тайӧс",
+          "head_upos": "PRON",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "тайӧс",
+              "lemma": "тайӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "PronType": "Dem"
+              },
+              "head": 8,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "тайӧс"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "тайӧс"
+        },
+        {
+          "head_id": 8,
+          "head_form": "гижис",
+          "head_upos": "VERB",
+          "head_deprel": "ccomp",
+          "tokens": [
+            {
+              "id": 8,
+              "form": "гижис",
+              "lemma": "гижны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 4,
+              "deprel": "ccomp",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "гижис"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "ccomp"
+          ],
+          "text": "гижис"
+        },
+        {
+          "head_id": 9,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 9,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 4,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 7,
+      "token_count": 9
     },
     {
       "sent_id": "kpv-brat_2018:13",
-      "phrases": []
+      "text": "Мый вылӧ тэ видзӧдан?",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Мый",
+          "lemma": "мый",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "PronType": "Int"
+          },
+          "head": 4,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "вылӧ",
+          "lemma": "вылӧ",
+          "upos": "ADP",
+          "xpos": "Po",
+          "feats": {
+            "Case": "Ill",
+            "Number": "Sing"
+          },
+          "head": 1,
+          "deprel": "case",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "тэ",
+          "lemma": "тэ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "2",
+            "PronType": "Prs"
+          },
+          "head": 4,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "видзӧдан",
+          "lemma": "видзӧдны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 5,
+          "form": "?",
+          "lemma": "?",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 4,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Мый",
+          "head_upos": "PRON",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Мый",
+              "lemma": "мый",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "PronType": "Int"
+              },
+              "head": 4,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 2,
+              "form": "вылӧ",
+              "lemma": "вылӧ",
+              "upos": "ADP",
+              "xpos": "Po",
+              "feats": {
+                "Case": "Ill",
+                "Number": "Sing"
+              },
+              "head": 1,
+              "deprel": "case",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Мый",
+            "вылӧ"
+          ],
+          "upos_tags": [
+            "PRON",
+            "ADP"
+          ],
+          "deprel_tags": [
+            "obl",
+            "case"
+          ],
+          "text": "Мый вылӧ"
+        },
+        {
+          "head_id": 3,
+          "head_form": "тэ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "тэ",
+              "lemma": "тэ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "2",
+                "PronType": "Prs"
+              },
+              "head": 4,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "тэ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "тэ"
+        },
+        {
+          "head_id": 4,
+          "head_form": "видзӧдан",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "видзӧдан",
+              "lemma": "видзӧдны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "2",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "видзӧдан"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "видзӧдан"
+        },
+        {
+          "head_id": 5,
+          "head_form": "?",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "?",
+              "lemma": "?",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 4,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "?"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "?"
+        }
+      ],
+      "phrase_count": 4,
+      "token_count": 5
     },
     {
       "sent_id": "kpv-brat_2018:14",
-      "phrases": []
+      "text": "Тэ кыдзи мӧвпалан, кор верман волыны?",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Тэ",
+          "lemma": "тэ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "2",
+            "PronType": "Prs"
+          },
+          "head": 3,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "кыдзи",
+          "lemma": "кыдзи",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {
+            "PronType": "Int"
+          },
+          "head": 3,
+          "deprel": "advmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "мӧвпалан",
+          "lemma": "мӧвпавны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 4,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 7,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "кор",
+          "lemma": "кор",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 7,
+          "deprel": "advmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 6,
+          "form": "верман",
+          "lemma": "вермыны",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+          },
+          "head": 7,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "волыны",
+          "lemma": "волыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 3,
+          "deprel": "advcl",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 8,
+          "form": "?",
+          "lemma": "?",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Тэ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Тэ",
+              "lemma": "тэ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "2",
+                "PronType": "Prs"
+              },
+              "head": 3,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Тэ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Тэ"
+        },
+        {
+          "head_id": 3,
+          "head_form": "мӧвпалан",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "кыдзи",
+              "lemma": "кыдзи",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {
+                "PronType": "Int"
+              },
+              "head": 3,
+              "deprel": "advmod",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 3,
+              "form": "мӧвпалан",
+              "lemma": "мӧвпавны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "2",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "кыдзи",
+            "мӧвпалан"
+          ],
+          "upos_tags": [
+            "ADV",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "advmod",
+            "root"
+          ],
+          "text": "кыдзи мӧвпалан"
+        },
+        {
+          "head_id": 4,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 4,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 7,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 7,
+          "head_form": "волыны",
+          "head_upos": "VERB",
+          "head_deprel": "advcl",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "кор",
+              "lemma": "кор",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 7,
+              "deprel": "advmod",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 6,
+              "form": "верман",
+              "lemma": "вермыны",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "2",
+                "Tense": "Pres",
+                "VerbForm": "Fin"
+              },
+              "head": 7,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 7,
+              "form": "волыны",
+              "lemma": "волыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 3,
+              "deprel": "advcl",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "кор",
+            "верман",
+            "волыны"
+          ],
+          "upos_tags": [
+            "ADV",
+            "AUX",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "advmod",
+            "aux",
+            "advcl"
+          ],
+          "text": "кор верман волыны"
+        },
+        {
+          "head_id": 8,
+          "head_form": "?",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 8,
+              "form": "?",
+              "lemma": "?",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "?"
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "?"
+        }
+      ],
+      "phrase_count": 5,
+      "token_count": 8
     },
     {
       "sent_id": "kpv-brat_2018:15",
-      "phrases": []
+      "text": "Сійӧ ньӧбис машина, а вокыс сӧмын велосипед.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Сійӧ",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 2,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "ньӧбис",
+          "lemma": "ньӧбны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "машина",
+          "lemma": "машина",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 4,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 6,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "а",
+          "lemma": "а",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 6,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "вокыс",
+          "lemma": "вок",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 2,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "сӧмын",
+          "lemma": "сӧмын",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 6,
+          "deprel": "orphan",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 8,
+          "form": "велосипед",
+          "lemma": "велосипед",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 6,
+          "deprel": "orphan",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 9,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 2,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Сійӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Сійӧ",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 2,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Сійӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Сійӧ"
+        },
+        {
+          "head_id": 2,
+          "head_form": "ньӧбис",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "ньӧбис",
+              "lemma": "ньӧбны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "ньӧбис"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "ньӧбис"
+        },
+        {
+          "head_id": 3,
+          "head_form": "машина",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "машина",
+              "lemma": "машина",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "машина"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "машина"
+        },
+        {
+          "head_id": 4,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 4,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 6,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 6,
+          "head_form": "вокыс",
+          "head_upos": "NOUN",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "а",
+              "lemma": "а",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 6,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            },
+            {
+              "id": 6,
+              "form": "вокыс",
+              "lemma": "вок",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 2,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "а",
+            "вокыс"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "cc",
+            "conj"
+          ],
+          "text": "а вокыс"
+        },
+        {
+          "head_id": 7,
+          "head_form": "сӧмын",
+          "head_upos": "ADV",
+          "head_deprel": "orphan",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "сӧмын",
+              "lemma": "сӧмын",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 6,
+              "deprel": "orphan",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "сӧмын"
+          ],
+          "upos_tags": [
+            "ADV"
+          ],
+          "deprel_tags": [
+            "orphan"
+          ],
+          "text": "сӧмын"
+        },
+        {
+          "head_id": 8,
+          "head_form": "велосипед",
+          "head_upos": "NOUN",
+          "head_deprel": "orphan",
+          "tokens": [
+            {
+              "id": 8,
+              "form": "велосипед",
+              "lemma": "велосипед",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 6,
+              "deprel": "orphan",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "велосипед"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "orphan"
+          ],
+          "text": "велосипед"
+        },
+        {
+          "head_id": 9,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 9,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 2,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 8,
+      "token_count": 9
     },
     {
       "sent_id": "kpv-brat_2018:16",
-      "phrases": []
+      "text": "Питер да Мери кутчысьлісны да петісны вежӧсысь.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Питер",
+          "lemma": "Питер",
+          "upos": "PROPN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 4,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 2,
+          "form": "да",
+          "lemma": "да",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 3,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 3,
+          "form": "Мери",
+          "lemma": "Мери",
+          "upos": "PROPN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 1,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 4,
+          "form": "кутчысьлісны",
+          "lemma": "кутчысьлыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "да",
+          "lemma": "да",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 6,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "петісны",
+          "lemma": "петны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 4,
+          "deprel": "conj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "вежӧсысь",
+          "lemma": "вежӧс",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Ela",
+            "Number": "Sing"
+          },
+          "head": 6,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 8,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 4,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Питер",
+          "head_upos": "PROPN",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Питер",
+              "lemma": "Питер",
+              "upos": "PROPN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 4,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "Питер"
+          ],
+          "upos_tags": [
+            "PROPN"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Питер"
+        },
+        {
+          "head_id": 3,
+          "head_form": "Мери",
+          "head_upos": "PROPN",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "да",
+              "lemma": "да",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 3,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            },
+            {
+              "id": 3,
+              "form": "Мери",
+              "lemma": "Мери",
+              "upos": "PROPN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 1,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "да",
+            "Мери"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "PROPN"
+          ],
+          "deprel_tags": [
+            "cc",
+            "conj"
+          ],
+          "text": "да Мери"
+        },
+        {
+          "head_id": 4,
+          "head_form": "кутчысьлісны",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "кутчысьлісны",
+              "lemma": "кутчысьлыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Plur",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "кутчысьлісны"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "кутчысьлісны"
+        },
+        {
+          "head_id": 6,
+          "head_form": "петісны",
+          "head_upos": "VERB",
+          "head_deprel": "conj",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "да",
+              "lemma": "да",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 6,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            },
+            {
+              "id": 6,
+              "form": "петісны",
+              "lemma": "петны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Plur",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 4,
+              "deprel": "conj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "да",
+            "петісны"
+          ],
+          "upos_tags": [
+            "CCONJ",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "cc",
+            "conj"
+          ],
+          "text": "да петісны"
+        },
+        {
+          "head_id": 7,
+          "head_form": "вежӧсысь",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "вежӧсысь",
+              "lemma": "вежӧс",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Ela",
+                "Number": "Sing"
+              },
+              "head": 6,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "вежӧсысь"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "вежӧсысь"
+        },
+        {
+          "head_id": 8,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 8,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 4,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 6,
+      "token_count": 8
     },
     {
       "sent_id": "kpv-brat_2018:17",
-      "phrases": []
+      "text": "Сылы коліс юрсисӧ мичаа вӧчны, но мыйлакӧ тайӧ лунӧ сійӧ эз кӧсйы.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Сылы",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Dat",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 5,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "коліс",
+          "lemma": "ковны",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 5,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "юрсисӧ",
+          "lemma": "юрси",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+          },
+          "head": 5,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "мичаа",
+          "lemma": "мичаа",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 5,
+          "deprel": "advmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "вӧчны",
+          "lemma": "вӧчны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 6,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 13,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "но",
+          "lemma": "но",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 13,
+          "deprel": "cc",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 8,
+          "form": "мыйлакӧ",
+          "lemma": "мыйла",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 13,
+          "deprel": "advmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 9,
+          "form": "тайӧ",
+          "lemma": "тайӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "PronType": "Dem"
+          },
+          "head": 10,
+          "deprel": "det",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 10,
+          "form": "лунӧ",
+          "lemma": "лунӧ",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Ill",
+            "Number": "Sing"
+          },
+          "head": 13,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 11,
+          "form": "сійӧ",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 13,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 12,
+          "form": "эз",
+          "lemma": "оз",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 13,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 13,
+          "form": "кӧсйы",
+          "lemma": "кӧсйыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Connegative": "Yes"
+          },
+          "head": 5,
+          "deprel": "advcl",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 14,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 5,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Сылы",
+          "head_upos": "PRON",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Сылы",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Dat",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 5,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Сылы"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "Сылы"
+        },
+        {
+          "head_id": 2,
+          "head_form": "коліс",
+          "head_upos": "AUX",
+          "head_deprel": "aux",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "коліс",
+              "lemma": "ковны",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 5,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "коліс"
+          ],
+          "upos_tags": [
+            "AUX"
+          ],
+          "deprel_tags": [
+            "aux"
+          ],
+          "text": "коліс"
+        },
+        {
+          "head_id": 3,
+          "head_form": "юрсисӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "юрсисӧ",
+              "lemma": "юрси",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "Number[psor]": "Sing",
+                "Person[psor]": "3"
+              },
+              "head": 5,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "юрсисӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "юрсисӧ"
+        },
+        {
+          "head_id": 5,
+          "head_form": "вӧчны",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "мичаа",
+              "lemma": "мичаа",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 5,
+              "deprel": "advmod",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 5,
+              "form": "вӧчны",
+              "lemma": "вӧчны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "мичаа",
+            "вӧчны"
+          ],
+          "upos_tags": [
+            "ADV",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "advmod",
+            "root"
+          ],
+          "text": "мичаа вӧчны"
+        },
+        {
+          "head_id": 6,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 6,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 13,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 7,
+          "head_form": "но",
+          "head_upos": "CCONJ",
+          "head_deprel": "cc",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "но",
+              "lemma": "но",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 13,
+              "deprel": "cc",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "но"
+          ],
+          "upos_tags": [
+            "CCONJ"
+          ],
+          "deprel_tags": [
+            "cc"
+          ],
+          "text": "но"
+        },
+        {
+          "head_id": 8,
+          "head_form": "мыйлакӧ",
+          "head_upos": "ADV",
+          "head_deprel": "advmod",
+          "tokens": [
+            {
+              "id": 8,
+              "form": "мыйлакӧ",
+              "lemma": "мыйла",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 13,
+              "deprel": "advmod",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "мыйлакӧ"
+          ],
+          "upos_tags": [
+            "ADV"
+          ],
+          "deprel_tags": [
+            "advmod"
+          ],
+          "text": "мыйлакӧ"
+        },
+        {
+          "head_id": 10,
+          "head_form": "лунӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 9,
+              "form": "тайӧ",
+              "lemma": "тайӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "PronType": "Dem"
+              },
+              "head": 10,
+              "deprel": "det",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 10,
+              "form": "лунӧ",
+              "lemma": "лунӧ",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Ill",
+                "Number": "Sing"
+              },
+              "head": 13,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "тайӧ",
+            "лунӧ"
+          ],
+          "upos_tags": [
+            "PRON",
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "det",
+            "obl"
+          ],
+          "text": "тайӧ лунӧ"
+        },
+        {
+          "head_id": 11,
+          "head_form": "сійӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 11,
+              "form": "сійӧ",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 13,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "сійӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "сійӧ"
+        },
+        {
+          "head_id": 13,
+          "head_form": "кӧсйы",
+          "head_upos": "VERB",
+          "head_deprel": "advcl",
+          "tokens": [
+            {
+              "id": 12,
+              "form": "эз",
+              "lemma": "оз",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Polarity": "Neg",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 13,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 13,
+              "form": "кӧсйы",
+              "lemma": "кӧсйыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Connegative": "Yes"
+              },
+              "head": 5,
+              "deprel": "advcl",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "эз",
+            "кӧсйы"
+          ],
+          "upos_tags": [
+            "AUX",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "aux",
+            "advcl"
+          ],
+          "text": "эз кӧсйы"
+        },
+        {
+          "head_id": 14,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 14,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 5,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 11,
+      "token_count": 14
     },
     {
       "sent_id": "kpv-brat_2018:18",
-      "phrases": []
+      "text": "Ме эг вермы сійӧс вӧтӧдны, сы вӧсна мый сійӧ зэв тэрыба котӧртіс.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Ме",
+          "lemma": "ме",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "1",
+            "PronType": "Prs"
+          },
+          "head": 5,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "эг",
+          "lemma": "оз",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 5,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "вермы",
+          "lemma": "вермыны",
+          "upos": "AUX",
+          "xpos": "V",
+          "feats": {
+            "Connegative": "Yes"
+          },
+          "head": 5,
+          "deprel": "aux",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 4,
+          "form": "сійӧс",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 5,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "вӧтӧдны",
+          "lemma": "вӧтӧдны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "VerbForm": "Inf"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 6,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 13,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "сы",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 13,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 8,
+          "form": "вӧсна",
+          "lemma": "вӧсна",
+          "upos": "ADP",
+          "xpos": "Po",
+          "feats": {},
+          "head": 7,
+          "deprel": "case",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 9,
+          "form": "мый",
+          "lemma": "мый",
+          "upos": "SCONJ",
+          "xpos": "CS",
+          "feats": {},
+          "head": 13,
+          "deprel": "mark",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 10,
+          "form": "сійӧ",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 13,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 11,
+          "form": "зэв",
+          "lemma": "зэв",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 12,
+          "deprel": "advmod:deg",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 12,
+          "form": "тэрыба",
+          "lemma": "тэрыб",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 13,
+          "deprel": "advmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 13,
+          "form": "котӧртіс",
+          "lemma": "котӧртыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 5,
+          "deprel": "advcl",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 14,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 5,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Ме",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Ме",
+              "lemma": "ме",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "1",
+                "PronType": "Prs"
+              },
+              "head": 5,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Ме"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Ме"
+        },
+        {
+          "head_id": 2,
+          "head_form": "эг",
+          "head_upos": "AUX",
+          "head_deprel": "aux",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "эг",
+              "lemma": "оз",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "1",
+                "Polarity": "Neg",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 5,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "эг"
+          ],
+          "upos_tags": [
+            "AUX"
+          ],
+          "deprel_tags": [
+            "aux"
+          ],
+          "text": "эг"
+        },
+        {
+          "head_id": 3,
+          "head_form": "вермы",
+          "head_upos": "AUX",
+          "head_deprel": "aux",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "вермы",
+              "lemma": "вермыны",
+              "upos": "AUX",
+              "xpos": "V",
+              "feats": {
+                "Connegative": "Yes"
+              },
+              "head": 5,
+              "deprel": "aux",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "вермы"
+          ],
+          "upos_tags": [
+            "AUX"
+          ],
+          "deprel_tags": [
+            "aux"
+          ],
+          "text": "вермы"
+        },
+        {
+          "head_id": 4,
+          "head_form": "сійӧс",
+          "head_upos": "PRON",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 4,
+              "form": "сійӧс",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 5,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "сійӧс"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "сійӧс"
+        },
+        {
+          "head_id": 5,
+          "head_form": "вӧтӧдны",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "вӧтӧдны",
+              "lemma": "вӧтӧдны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "VerbForm": "Inf"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "вӧтӧдны"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "вӧтӧдны"
+        },
+        {
+          "head_id": 6,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 6,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 13,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 7,
+          "head_form": "сы",
+          "head_upos": "PRON",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "сы",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 13,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 8,
+              "form": "вӧсна",
+              "lemma": "вӧсна",
+              "upos": "ADP",
+              "xpos": "Po",
+              "feats": {},
+              "head": 7,
+              "deprel": "case",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "сы",
+            "вӧсна"
+          ],
+          "upos_tags": [
+            "PRON",
+            "ADP"
+          ],
+          "deprel_tags": [
+            "obl",
+            "case"
+          ],
+          "text": "сы вӧсна"
+        },
+        {
+          "head_id": 9,
+          "head_form": "мый",
+          "head_upos": "SCONJ",
+          "head_deprel": "mark",
+          "tokens": [
+            {
+              "id": 9,
+              "form": "мый",
+              "lemma": "мый",
+              "upos": "SCONJ",
+              "xpos": "CS",
+              "feats": {},
+              "head": 13,
+              "deprel": "mark",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "мый"
+          ],
+          "upos_tags": [
+            "SCONJ"
+          ],
+          "deprel_tags": [
+            "mark"
+          ],
+          "text": "мый"
+        },
+        {
+          "head_id": 10,
+          "head_form": "сійӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 10,
+              "form": "сійӧ",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 13,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "сійӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "сійӧ"
+        },
+        {
+          "head_id": 13,
+          "head_form": "котӧртіс",
+          "head_upos": "VERB",
+          "head_deprel": "advcl",
+          "tokens": [
+            {
+              "id": 11,
+              "form": "зэв",
+              "lemma": "зэв",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 12,
+              "deprel": "advmod:deg",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 12,
+              "form": "тэрыба",
+              "lemma": "тэрыб",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 13,
+              "deprel": "advmod",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 13,
+              "form": "котӧртіс",
+              "lemma": "котӧртыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 5,
+              "deprel": "advcl",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "зэв",
+            "тэрыба",
+            "котӧртіс"
+          ],
+          "upos_tags": [
+            "ADV",
+            "ADV",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "advmod:deg",
+            "advmod",
+            "advcl"
+          ],
+          "text": "зэв тэрыба котӧртіс"
+        },
+        {
+          "head_id": 14,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 14,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 5,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 11,
+      "token_count": 14
     },
     {
       "sent_id": "kpv-brat_2018:19",
-      "phrases": []
+      "text": "Тайӧ Петрсянь письмӧ, да сійӧс тӧрыт вайисны.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Тайӧ",
+          "lemma": "тайӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "PronType": "Dem"
+          },
+          "head": 3,
+          "deprel": "det",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "Петрсянь",
+          "lemma": "Петр",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Egr",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "письмӧ",
+          "lemma": "письмӧ",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 4,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 8,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "да",
+          "lemma": "да",
+          "upos": "CCONJ",
+          "xpos": "CC",
+          "feats": {},
+          "head": 8,
+          "deprel": "mark",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "сійӧс",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 8,
+          "deprel": "obj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 7,
+          "form": "тӧрыт",
+          "lemma": "тӧрыт",
+          "upos": "ADV",
+          "xpos": "Adv",
+          "feats": {},
+          "head": 8,
+          "deprel": "advmod",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 8,
+          "form": "вайисны",
+          "lemma": "вайны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 3,
+          "deprel": "advcl",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 9,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 3,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Тайӧ",
+          "head_upos": "PRON",
+          "head_deprel": "det",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Тайӧ",
+              "lemma": "тайӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "PronType": "Dem"
+              },
+              "head": 3,
+              "deprel": "det",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Тайӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "det"
+          ],
+          "text": "Тайӧ"
+        },
+        {
+          "head_id": 2,
+          "head_form": "Петрсянь",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "Петрсянь",
+              "lemma": "Петр",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Egr",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Петрсянь"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "Петрсянь"
+        },
+        {
+          "head_id": 3,
+          "head_form": "письмӧ",
+          "head_upos": "NOUN",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "письмӧ",
+              "lemma": "письмӧ",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "письмӧ"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "письмӧ"
+        },
+        {
+          "head_id": 4,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 4,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 8,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 5,
+          "head_form": "да",
+          "head_upos": "CCONJ",
+          "head_deprel": "mark",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "да",
+              "lemma": "да",
+              "upos": "CCONJ",
+              "xpos": "CC",
+              "feats": {},
+              "head": 8,
+              "deprel": "mark",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "да"
+          ],
+          "upos_tags": [
+            "CCONJ"
+          ],
+          "deprel_tags": [
+            "mark"
+          ],
+          "text": "да"
+        },
+        {
+          "head_id": 6,
+          "head_form": "сійӧс",
+          "head_upos": "PRON",
+          "head_deprel": "obj",
+          "tokens": [
+            {
+              "id": 6,
+              "form": "сійӧс",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Acc",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 8,
+              "deprel": "obj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "сійӧс"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "obj"
+          ],
+          "text": "сійӧс"
+        },
+        {
+          "head_id": 8,
+          "head_form": "вайисны",
+          "head_upos": "VERB",
+          "head_deprel": "advcl",
+          "tokens": [
+            {
+              "id": 7,
+              "form": "тӧрыт",
+              "lemma": "тӧрыт",
+              "upos": "ADV",
+              "xpos": "Adv",
+              "feats": {},
+              "head": 8,
+              "deprel": "advmod",
+              "deps": null,
+              "misc": {}
+            },
+            {
+              "id": 8,
+              "form": "вайисны",
+              "lemma": "вайны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Plur",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 3,
+              "deprel": "advcl",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "тӧрыт",
+            "вайисны"
+          ],
+          "upos_tags": [
+            "ADV",
+            "VERB"
+          ],
+          "deprel_tags": [
+            "advmod",
+            "advcl"
+          ],
+          "text": "тӧрыт вайисны"
+        },
+        {
+          "head_id": 9,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 9,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 3,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 8,
+      "token_count": 9
     },
     {
       "sent_id": "kpv-brat_2018:20",
-      "phrases": []
+      "text": "Сійӧ быдмис Парижын, Францияса юркарын.",
+      "original_tokens": [
+        {
+          "id": 1,
+          "form": "Сійӧ",
+          "lemma": "сійӧ",
+          "upos": "PRON",
+          "xpos": "Pron",
+          "feats": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prs"
+          },
+          "head": 2,
+          "deprel": "nsubj",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 2,
+          "form": "быдмис",
+          "lemma": "быдмыны",
+          "upos": "VERB",
+          "xpos": "V",
+          "feats": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+          },
+          "head": 0,
+          "deprel": "root",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 3,
+          "form": "Парижын",
+          "lemma": "Париж",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Ine",
+            "Number": "Sing"
+          },
+          "head": 2,
+          "deprel": "obl",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru",
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 4,
+          "form": ",",
+          "lemma": ",",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 6,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        },
+        {
+          "id": 5,
+          "form": "Францияса",
+          "lemma": "Франция",
+          "upos": "PROPN",
+          "xpos": "Prop",
+          "feats": {
+            "Case": "Loc",
+            "Number": "Sing"
+          },
+          "head": 6,
+          "deprel": "amod",
+          "deps": null,
+          "misc": {
+            "OrigLang": "ru"
+          }
+        },
+        {
+          "id": 6,
+          "form": "юркарын",
+          "lemma": "юркар",
+          "upos": "NOUN",
+          "xpos": "N",
+          "feats": {
+            "Case": "Ine",
+            "Number": "Sing"
+          },
+          "head": 3,
+          "deprel": "appos",
+          "deps": null,
+          "misc": {
+            "SpaceAfter": "No"
+          }
+        },
+        {
+          "id": 7,
+          "form": ".",
+          "lemma": ".",
+          "upos": "PUNCT",
+          "xpos": "CLB",
+          "feats": {},
+          "head": 2,
+          "deprel": "punct",
+          "deps": null,
+          "misc": {}
+        }
+      ],
+      "phrases": [
+        {
+          "head_id": 1,
+          "head_form": "Сійӧ",
+          "head_upos": "PRON",
+          "head_deprel": "nsubj",
+          "tokens": [
+            {
+              "id": 1,
+              "form": "Сійӧ",
+              "lemma": "сійӧ",
+              "upos": "PRON",
+              "xpos": "Pron",
+              "feats": {
+                "Case": "Nom",
+                "Number": "Sing",
+                "Person": "3",
+                "PronType": "Prs"
+              },
+              "head": 2,
+              "deprel": "nsubj",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "Сійӧ"
+          ],
+          "upos_tags": [
+            "PRON"
+          ],
+          "deprel_tags": [
+            "nsubj"
+          ],
+          "text": "Сійӧ"
+        },
+        {
+          "head_id": 2,
+          "head_form": "быдмис",
+          "head_upos": "VERB",
+          "head_deprel": "root",
+          "tokens": [
+            {
+              "id": 2,
+              "form": "быдмис",
+              "lemma": "быдмыны",
+              "upos": "VERB",
+              "xpos": "V",
+              "feats": {
+                "Mood": "Ind",
+                "Number": "Sing",
+                "Person": "3",
+                "Tense": "Past",
+                "VerbForm": "Fin"
+              },
+              "head": 0,
+              "deprel": "root",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "быдмис"
+          ],
+          "upos_tags": [
+            "VERB"
+          ],
+          "deprel_tags": [
+            "root"
+          ],
+          "text": "быдмис"
+        },
+        {
+          "head_id": 3,
+          "head_form": "Парижын",
+          "head_upos": "NOUN",
+          "head_deprel": "obl",
+          "tokens": [
+            {
+              "id": 3,
+              "form": "Парижын",
+              "lemma": "Париж",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Ine",
+                "Number": "Sing"
+              },
+              "head": 2,
+              "deprel": "obl",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru",
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "Парижын"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "obl"
+          ],
+          "text": "Парижын"
+        },
+        {
+          "head_id": 4,
+          "head_form": ",",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 4,
+              "form": ",",
+              "lemma": ",",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 6,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            ","
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": ","
+        },
+        {
+          "head_id": 5,
+          "head_form": "Францияса",
+          "head_upos": "PROPN",
+          "head_deprel": "amod",
+          "tokens": [
+            {
+              "id": 5,
+              "form": "Францияса",
+              "lemma": "Франция",
+              "upos": "PROPN",
+              "xpos": "Prop",
+              "feats": {
+                "Case": "Loc",
+                "Number": "Sing"
+              },
+              "head": 6,
+              "deprel": "amod",
+              "deps": null,
+              "misc": {
+                "OrigLang": "ru"
+              }
+            }
+          ],
+          "forms": [
+            "Францияса"
+          ],
+          "upos_tags": [
+            "PROPN"
+          ],
+          "deprel_tags": [
+            "amod"
+          ],
+          "text": "Францияса"
+        },
+        {
+          "head_id": 6,
+          "head_form": "юркарын",
+          "head_upos": "NOUN",
+          "head_deprel": "appos",
+          "tokens": [
+            {
+              "id": 6,
+              "form": "юркарын",
+              "lemma": "юркар",
+              "upos": "NOUN",
+              "xpos": "N",
+              "feats": {
+                "Case": "Ine",
+                "Number": "Sing"
+              },
+              "head": 3,
+              "deprel": "appos",
+              "deps": null,
+              "misc": {
+                "SpaceAfter": "No"
+              }
+            }
+          ],
+          "forms": [
+            "юркарын"
+          ],
+          "upos_tags": [
+            "NOUN"
+          ],
+          "deprel_tags": [
+            "appos"
+          ],
+          "text": "юркарын"
+        },
+        {
+          "head_id": 7,
+          "head_form": ".",
+          "head_upos": "PUNCT",
+          "head_deprel": "punct",
+          "tokens": [
+            {
+              "id": 7,
+              "form": ".",
+              "lemma": ".",
+              "upos": "PUNCT",
+              "xpos": "CLB",
+              "feats": {},
+              "head": 2,
+              "deprel": "punct",
+              "deps": null,
+              "misc": {}
+            }
+          ],
+          "forms": [
+            "."
+          ],
+          "upos_tags": [
+            "PUNCT"
+          ],
+          "deprel_tags": [
+            "punct"
+          ],
+          "text": "."
+        }
+      ],
+      "phrase_count": 7,
+      "token_count": 7
     }
   ]
 }

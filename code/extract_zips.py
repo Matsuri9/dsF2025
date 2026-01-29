@@ -12,7 +12,7 @@ def extract_all_zips():
     """全てのzipファイルを展開する"""
     
     # パスの設定
-    project_root = Path(__file__).parent.parent
+    project_root = Path(__file__).resolve().parent.parent
     zip_dir = project_root / "data" / "zip"
     raw_dir = project_root / "data" / "raw"
     

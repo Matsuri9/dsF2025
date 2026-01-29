@@ -1,6 +1,6 @@
 {
   "language": "Sanskrit",
-  "file_path": "data/raw/UD_Sanskrit-UFAL-r2.17/sa_ufal-ud-test.conllu",
+  "file_path": "/home/iniad/dsf/grammatical_similarity_research/data/raw/UD_Sanskrit-UFAL-r2.17/sa_ufal-ud-test.conllu",
   "sentence_count": 230,
   "sentences": [
     {

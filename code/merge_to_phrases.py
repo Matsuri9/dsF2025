@@ -288,23 +288,23 @@ def main():
     # 出力ディレクトリを作成
     os.makedirs(phrases_dir, exist_ok=True)
     
-    # 言語コード
-    language_codes = [
-        'ar', 'zh', 'cs', 'en', 'fi', 'fr', 'gl', 'de', 'hi', 'is',
-        'id', 'it', 'ja', 'ko', 'pt', 'ru', 'es', 'sv', 'th', 'tr'
-    ]
-    
     print("=" * 60)
     print("句へのマージ処理を開始します")
     print("=" * 60)
     
-    for lang_code in language_codes:
-        input_file = os.path.join(processed_dir, f'{lang_code}_pud.json')
-        output_file = os.path.join(phrases_dir, f'{lang_code}_pud_phrases.json')
+    # processedディレクトリ内の全JSONファイルを処理
+    processed_files = sorted([f for f in os.listdir(processed_dir) if f.endswith('.json')])
+    
+    if not processed_files:
+        print("警告: 処理対象のファイルが見つかりません")
+        return
+    
+    for filename in processed_files:
+        input_file = os.path.join(processed_dir, filename)
         
-        if not os.path.exists(input_file):
-            print(f"警告: {input_file} が見つかりません")
-            continue
+        # 出力ファイル名を決定（例: en_pud.json -> en_pud_phrases.json）
+        base_name = os.path.splitext(filename)[0]
+        output_file = os.path.join(phrases_dir, f'{base_name}_phrases.json')
         
         process_language_file(input_file, output_file)
     
